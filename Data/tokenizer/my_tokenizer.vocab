@@ -1,0 +1,1024 @@
+[\u0000] 0
+[\u0001] 1
+[\u0002] 2
+[\u0003] 3
+[\u0004] 4
+[\u0005] 5
+[\u0006] 6
+[\u0007] 7
+[\u0008] 8
+[\u0009] 9
+[\u000a] 10
+[\u000b] 11
+[\u000c] 12
+[\u000d] 13
+[\u000e] 14
+[\u000f] 15
+[\u0010] 16
+[\u0011] 17
+[\u0012] 18
+[\u0013] 19
+[\u0014] 20
+[\u0015] 21
+[\u0016] 22
+[\u0017] 23
+[\u0018] 24
+[\u0019] 25
+[\u001a] 26
+[\u001b] 27
+[\u001c] 28
+[\u001d] 29
+[\u001e] 30
+[\u001f] 31
+[ ] 32
+[!] 33
+["] 34
+[#] 35
+[$] 36
+[%] 37
+[&] 38
+['] 39
+[(] 40
+[)] 41
+[*] 42
+[+] 43
+[,] 44
+[-] 45
+[.] 46
+[/] 47
+[0] 48
+[1] 49
+[2] 50
+[3] 51
+[4] 52
+[5] 53
+[6] 54
+[7] 55
+[8] 56
+[9] 57
+[:] 58
+[;] 59
+[<] 60
+[=] 61
+[>] 62
+[?] 63
+[@] 64
+[A] 65
+[B] 66
+[C] 67
+[D] 68
+[E] 69
+[F] 70
+[G] 71
+[H] 72
+[I] 73
+[J] 74
+[K] 75
+[L] 76
+[M] 77
+[N] 78
+[O] 79
+[P] 80
+[Q] 81
+[R] 82
+[S] 83
+[T] 84
+[U] 85
+[V] 86
+[W] 87
+[X] 88
+[Y] 89
+[Z] 90
+[[] 91
+[\] 92
+[]] 93
+[^] 94
+[_] 95
+[`] 96
+[a] 97
+[b] 98
+[c] 99
+[d] 100
+[e] 101
+[f] 102
+[g] 103
+[h] 104
+[i] 105
+[j] 106
+[k] 107
+[l] 108
+[m] 109
+[n] 110
+[o] 111
+[p] 112
+[q] 113
+[r] 114
+[s] 115
+[t] 116
+[u] 117
+[v] 118
+[w] 119
+[x] 120
+[y] 121
+[z] 122
+[{] 123
+[|] 124
+[}] 125
+[~] 126
+[\u007f] 127
+[�] 128
+[�] 129
+[�] 130
+[�] 131
+[�] 132
+[�] 133
+[�] 134
+[�] 135
+[�] 136
+[�] 137
+[�] 138
+[�] 139
+[�] 140
+[�] 141
+[�] 142
+[�] 143
+[�] 144
+[�] 145
+[�] 146
+[�] 147
+[�] 148
+[�] 149
+[�] 150
+[�] 151
+[�] 152
+[�] 153
+[�] 154
+[�] 155
+[�] 156
+[�] 157
+[�] 158
+[�] 159
+[�] 160
+[�] 161
+[�] 162
+[�] 163
+[�] 164
+[�] 165
+[�] 166
+[�] 167
+[�] 168
+[�] 169
+[�] 170
+[�] 171
+[�] 172
+[�] 173
+[�] 174
+[�] 175
+[�] 176
+[�] 177
+[�] 178
+[�] 179
+[�] 180
+[�] 181
+[�] 182
+[�] 183
+[�] 184
+[�] 185
+[�] 186
+[�] 187
+[�] 188
+[�] 189
+[�] 190
+[�] 191
+[�] 192
+[�] 193
+[�] 194
+[�] 195
+[�] 196
+[�] 197
+[�] 198
+[�] 199
+[�] 200
+[�] 201
+[�] 202
+[�] 203
+[�] 204
+[�] 205
+[�] 206
+[�] 207
+[�] 208
+[�] 209
+[�] 210
+[�] 211
+[�] 212
+[�] 213
+[�] 214
+[�] 215
+[�] 216
+[�] 217
+[�] 218
+[�] 219
+[�] 220
+[�] 221
+[�] 222
+[�] 223
+[�] 224
+[�] 225
+[�] 226
+[�] 227
+[�] 228
+[�] 229
+[�] 230
+[�] 231
+[�] 232
+[�] 233
+[�] 234
+[�] 235
+[�] 236
+[�] 237
+[�] 238
+[�] 239
+[�] 240
+[�] 241
+[�] 242
+[�] 243
+[�] 244
+[�] 245
+[�] 246
+[�] 247
+[�] 248
+[�] 249
+[�] 250
+[�] 251
+[�] 252
+[�] 253
+[�] 254
+[�] 255
+[,][ ] -> [, ] 256
+[d][ ] -> [d ] 257
+[a][n] -> [an] 258
+[e][r] -> [er] 259
+[:][ ] -> [: ] 260
+[i][l] -> [il] 261
+[.][\u000a] -> [.\u000a] 262
+[.\u000a][ ] -> [.\u000a ] 263
+[.\u000a ][ ] -> [.\u000a  ] 264
+[i][t] -> [it] 265
+[h][ ] -> [h ] 266
+[e][ ] -> [e ] 267
+[w][it] -> [wit] 268
+[wit][h ] -> [with ] 269
+[i][c] -> [ic] 270
+[e][s] -> [es] 271
+[i][n] -> [in] 272
+[an][d ] -> [and ] 273
+[a][t] -> [at] 274
+[ ][with ] -> [ with ] 275
+[o][n] -> [on] 276
+[a][r] -> [ar] 277
+[e][a] -> [ea] 278
+[, ][and ] -> [, and ] 279
+[c][h] -> [ch] 280
+[e][n] -> [en] 281
+[e][d ] -> [ed ] 282
+[.][ ] -> [. ] 283
+[t][o] -> [to] 284
+[ ][s] -> [ s] 285
+[t][il] -> [til] 286
+[a][l] -> [al] 287
+[u][t] -> [ut] 288
+[ ][b] -> [ b] 289
+[c][o] -> [co] 290
+[, ][s] -> [, s] 291
+[k][ ] -> [k ] 292
+[e][g] -> [eg] 293
+[u][n] -> [un] 294
+[r][ea] -> [rea] 295
+[a][s] -> [as] 296
+[a][k] -> [ak] 297
+[g][ar] -> [gar] 298
+[un][til] -> [until] 299
+[er][v] -> [erv] 300
+[il][l] -> [ill] 301
+[ic][e] -> [ice] 302
+[u][r] -> [ur] 303
+[eg][g] -> [egg] 304
+[o][o] -> [oo] 305
+[a][ ] -> [a ] 306
+[e ][with ] -> [e with ] 307
+[in][g] -> [ing] 308
+[f][r] -> [fr] 309
+[u][gar] -> [ugar] 310
+[m][il] -> [mil] 311
+[a][d] -> [ad] 312
+[y][ ] -> [y ] 313
+[o][l] -> [ol] 314
+[i][s] -> [is] 315
+[e][t] -> [et] 316
+[a][: ] -> [a: ] 317
+[t][er] -> [ter] 318
+[o][t] -> [ot] 319
+[ ][in] -> [ in] 320
+[i][x] -> [ix] 321
+[mil][k] -> [milk] 322
+[e][: ] -> [e: ] 323
+[i][es] -> [ies] 324
+[at][o] -> [ato] 325
+[m][e] -> [me] 326
+[erv][e with ] -> [erve with ] 327
+[until][ ] -> [until ] 328
+[. ][S] -> [. S] 329
+[C][oo] -> [Coo] 330
+[ ][and ] -> [ and ] 331
+[p][ic] -> [pic] 332
+[.\u000a  ][C] -> [.\u000a  C] 333
+[ic][k] -> [ick] 334
+[o][w] -> [ow] 335
+[Coo][k ] -> [Cook ] 336
+[s][pic] -> [spic] 337
+[e][e] -> [ee] 338
+[ ][p] -> [ p] 339
+[o][r] -> [or] 340
+[as][t] -> [ast] 341
+[s][ with ] -> [s with ] 342
+[r][a] -> [ra] 343
+[u][c] -> [uc] 344
+[f][f] -> [ff] 345
+[M][ix] -> [Mix] 346
+[, ][b] -> [, b] 347
+[ut][ter] -> [utter] 348
+[on][ ] -> [on ] 349
+[e][es] -> [ees] 350
+[v][egg] -> [vegg] 351
+[to][m] -> [tom] 352
+[tom][ato] -> [tomato] 353
+[l][en] -> [len] 354
+[rea][m] -> [ream] 355
+[r][ice] -> [rice] 356
+[ak][e ] -> [ake ] 357
+[s][, ] -> [s, ] 358
+[vegg][ies] -> [veggies] 359
+[. S][erve with ] -> [. Serve with ] 360
+[c][ream] -> [cream] 361
+[Mix][ ] -> [Mix ] 362
+[u][p] -> [up] 363
+[p][p] -> [pp] 364
+[, ][ad] -> [, ad] 365
+[, ad][d ] -> [, add ] 366
+[e][m] -> [em] 367
+[.\u000a  ][S] -> [.\u000a  S] 368
+[f][l] -> [fl] 369
+[, s][ugar] -> [, sugar] 370
+[a][m] -> [am] 371
+[l][ic] -> [lic] 372
+[ch][ees] -> [chees] 373
+[p][ with ] -> [p with ] 374
+[on][i] -> [oni] 375
+[.\u000a  ][B] -> [.\u000a  B] 376
+[at][er] -> [ater] 377
+[: ][S] -> [: S] 378
+[g][h] -> [gh] 379
+[: ][B] -> [: B] 380
+[ick][en] -> [icken] 381
+[co][o] -> [coo] 382
+[to][p with ] -> [top with ] 383
+[spic][es] -> [spices] 384
+[a][uc] -> [auc] 385
+[until][ s] -> [until s] 386
+[len][d ] -> [lend ] 387
+[ch][ill] -> [chill] 388
+[: ][Cook ] -> [: Cook ] 389
+[ in][ ] -> [ in ] 390
+[w][ater] -> [water] 391
+[.\u000a  C][h] -> [.\u000a  Ch] 392
+[.\u000a  ][P] -> [.\u000a  P] 393
+[o][il] -> [oil] 394
+[p][ ] -> [p ] 395
+[: ][Mix ] -> [: Mix ] 396
+[o][ur] -> [our] 397
+[, sugar][, and ] -> [, sugar, and ] 398
+[b][l] -> [bl] 399
+[F][r] -> [Fr] 400
+[ b][rea] -> [ brea] 401
+[ol][d] -> [old] 402
+[or][ ] -> [or ] 403
+[e][, ] -> [e, ] 404
+[oni][on] -> [onion] 405
+[ic][e ] -> [ice ] 406
+[e][an] -> [ean] 407
+[s][, and ] -> [s, and ] 408
+[u][ff] -> [uff] 409
+[v][eg] -> [veg] 410
+[h][e] -> [he] 411
+[me][at] -> [meat] 412
+[d][er] -> [der] 413
+[W][h] -> [Wh] 414
+[me][l] -> [mel] 415
+[, and ][s] -> [, and s] 416
+[y][r] -> [yr] 417
+[yr][up] -> [yrup] 418
+[T][o] -> [To] 419
+[u][it] -> [uit] 420
+[s][.\u000a  ] -> [s.\u000a  ] 421
+[et][t] -> [ett] 422
+[s][ ] -> [s ] 423
+[l][em] -> [lem] 424
+[ s][auc] -> [ sauc] 425
+[ur][r] -> [urr] 426
+[ and ][s] -> [ and s] 427
+[t][ea] -> [tea] 428
+[g][r] -> [gr] 429
+[C][h] -> [Ch] 430
+[e ][in] -> [e in] 431
+[a][y] -> [ay] 432
+[ay][er] -> [ayer] 433
+[.\u000a  ][M] -> [.\u000a  M] 434
+[an][g] -> [ang] 435
+[al][l] -> [all] 436
+[fl][our] -> [flour] 437
+[ow][der] -> [owder] 438
+[al][t] -> [alt] 439
+[milk][, ] -> [milk, ] 440
+[fr][y ] -> [fry ] 441
+[until ][g] -> [until g] 442
+[until g][old] -> [until gold] 443
+[until gold][en] -> [until golden] 444
+[e: ][B] -> [e: B] 445
+[ brea][d] -> [ bread] 446
+[, and ][p] -> [, and p] 447
+[rea][d ] -> [read ] 448
+[gar][lic] -> [garlic] 449
+[t][h] -> [th] 450
+[erv][e ] -> [erve ] 451
+[ol][l] -> [oll] 452
+[s][: ] -> [s: ] 453
+[i][r] -> [ir] 454
+[ b][at] -> [ bat] 455
+[ bat][ter] -> [ batter] 456
+[n][e] -> [ne] 457
+[c][r] -> [cr] 458
+[ ][S] -> [ S] 459
+[ch][icken] -> [chicken] 460
+[, ][top with ] -> [, top with ] 461
+[L][ayer] -> [Layer] 462
+[on][ut] -> [onut] 463
+[co][l] -> [col] 464
+[c][ak] -> [cak] 465
+[Wh][is] -> [Whis] 466
+[Whis][k ] -> [Whisk ] 467
+[h][ot] -> [hot] 468
+[ p][an] -> [ pan] 469
+[e][pp] -> [epp] 470
+[epp][er] -> [epper] 471
+[f][ill] -> [fill] 472
+[fill][ing] -> [filling] 473
+[erv][e] -> [erve] 474
+[u][ice] -> [uice] 475
+[p][read ] -> [pread ] 476
+[a: ][Cook ] -> [a: Cook ] 477
+[coo][k ] -> [cook ] 478
+[n][ut] -> [nut] 479
+[ ][B] -> [ B] 480
+[chees][e] -> [cheese] 481
+[R][oll] -> [Roll] 482
+[and ][s] -> [and s] 483
+[ow][l] -> [owl] 484
+[tea][m] -> [team] 485
+[a: ][S] -> [a: S] 486
+[ ][d] -> [ d] 487
+[o][u] -> [ou] 488
+[t][uff] -> [tuff] 489
+[spic][ed ] -> [spiced ] 490
+[ot][ato] -> [otato] 491
+[at][t] -> [att] 492
+[en][ ] -> [en ] 493
+[is][h ] -> [ish ] 494
+[lem][on] -> [lemon] 495
+[l][a] -> [la] 496
+[ill][ ] -> [ill ] 497
+[r][es] -> [res] 498
+[res][s] -> [ress] 499
+[m][ix] -> [mix] 500
+[u][m] -> [um] 501
+[. Serve with ][rice] -> [. Serve with rice] 502
+[ic][e with ] -> [ice with ] 503
+[r][ot] -> [rot] 504
+[e][l] -> [el] 505
+[e][er] -> [eer] 506
+[o][g] -> [og] 507
+[urr][y] -> [urry] 508
+[ ][co] -> [ co] 509
+[c][onut] -> [conut] 510
+[es][ with ] -> [es with ] 511
+[h][a] -> [ha] 512
+[y][.\u000a  ] -> [y.\u000a  ] 513
+[o][col] -> [ocol] 514
+[ocol][at] -> [ocolat] 515
+[p][owder] -> [powder] 516
+[ s][ugar] -> [ sugar] 517
+[c][ar] -> [car] 518
+[t][ed ] -> [ted ] 519
+[b][utter] -> [butter] 520
+[a ][hot] -> [a hot] 521
+[a hot][ pan] -> [a hot pan] 522
+[To][ast] -> [Toast] 523
+[es][, ] -> [es, ] 524
+[ b][utter] -> [ butter] 525
+[fr][uit] -> [fruit] 526
+[coo][k] -> [cook] 527
+[v][o] -> [vo] 528
+[vo][c] -> [voc] 529
+[voc][ad] -> [vocad] 530
+[vocad][o] -> [vocado] 531
+[v][er] -> [ver] 532
+[an][an] -> [anan] 533
+[m][oo] -> [moo] 534
+[moo][th] -> [mooth] 535
+[e: B][lend ] -> [e: Blend ] 536
+[e][d] -> [ed] 537
+[ar][m] -> [arm] 538
+[r][ing] -> [ring] 539
+[u][d] -> [ud] 540
+[mil][k ] -> [milk ] 541
+[fr][i] -> [fri] 542
+[len][til] -> [lentil] 543
+[ch][ut] -> [chut] 544
+[chut][ne] -> [chutne] 545
+[o][s] -> [os] 546
+[p][otato] -> [potato] 547
+[/][veg] -> [/veg] 548
+[o][a] -> [oa] 549
+[ with ][onion] -> [ with onion] 550
+[G][ar] -> [Gar] 551
+[ ][until s] -> [ until s] 552
+[o][f] -> [of] 553
+[G][r] -> [Gr] 554
+[ill][ed ] -> [illed ] 555
+[i][e ] -> [ie ] 556
+[.\u000a  ][R] -> [.\u000a  R] 557
+[r][ice with ] -> [rice with ] 558
+[s][o] -> [so] 559
+[oil][ ] -> [oil ] 560
+[, b][ake ] -> [, bake ] 561
+[d][ee] -> [dee] 562
+[, s][ha] -> [, sha] 563
+[, sha][p] -> [, shap] 564
+[, shap][e in] -> [, shape in] 565
+[, shape in][to] -> [, shape into] 566
+[i][p ] -> [ip ] 567
+[ b][all] -> [ ball] 568
+[y][og] -> [yog] 569
+[yog][ur] -> [yogur] 570
+[yogur][t] -> [yogurt] 571
+[ang][o] -> [ango] 572
+[t][ra] -> [tra] 573
+[s][alt] -> [salt] 574
+[in][ ] -> [in ] 575
+[on ][a hot pan] -> [on a hot pan] 576
+[u][b] -> [ub] 577
+[i][p] -> [ip] 578
+[erve with ][s] -> [erve with s] 579
+[milk][, sugar, and ] -> [milk, sugar, and ] 580
+[ ][or ] -> [ or ] 581
+[e][at] -> [eat] 582
+[eat][ ] -> [eat ] 583
+[egg][s with ] -> [eggs with ] 584
+[ in][to] -> [ into] 585
+[, ][or ] -> [, or ] 586
+[.\u000a  ][A] -> [.\u000a  A] 587
+[ bread][, ] -> [ bread, ] 588
+[m][as] -> [mas] 589
+[a][vocado] -> [avocado] 590
+[al][ ] -> [al ] 591
+[h][ak] -> [hak] 592
+[, ][garlic] -> [, garlic] 593
+[s][. ] -> [s. ] 594
+[A][d] -> [Ad] 595
+[Ad][d ] -> [Add ] 596
+[tomato][es] -> [tomatoes] 597
+[ sauc][e, ] -> [ sauce, ] 598
+[a][, ] -> [a, ] 599
+[h][on] -> [hon] 600
+[hon][e] -> [hone] 601
+[erve ][chill] -> [erve chill] 602
+[erve chill][ed] -> [erve chilled] 603
+[.\u000a  ][O] -> [.\u000a  O] 604
+[s][ in ] -> [s in ] 605
+[s][ugar] -> [sugar] 606
+[ra][m] -> [ram] 607
+[bl][e ] -> [ble ] 608
+[, b][ean] -> [, bean] 609
+[s][i] -> [si] 610
+[to][r] -> [tor] 611
+[tor][til] -> [tortil] 612
+[t][ir] -> [tir] 613
+[ea][s] -> [eas] 614
+[eas][on] -> [eason] 615
+[ and s][erve] -> [ and serve] 616
+[ud][d] -> [udd] 617
+[ee][d] -> [eed] 618
+[g][er] -> [ger] 619
+[l][i] -> [li] 620
+[until ][cr] -> [until cr] 621
+[until cr][is] -> [until cris] 622
+[until cris][p] -> [until crisp] 623
+[ with ][spiced ] -> [ with spiced ] 624
+[et][a] -> [eta] 625
+[oa][k ] -> [oak ] 626
+[rice][, ] -> [rice, ] 627
+[ch][il] -> [chil] 628
+[Gar][n] -> [Garn] 629
+[Garn][ish ] -> [Garnish ] 630
+[Garnish ][with ] -> [Garnish with ] 631
+[g][ing] -> [ging] 632
+[ging][er] -> [ginger] 633
+[gr][e] -> [gre] 634
+[of][t] -> [oft] 635
+[o][m] -> [om] 636
+[l][ett] -> [lett] 637
+[lett][uc] -> [lettuc] 638
+[ress][ing] -> [ressing] 639
+[arm][es] -> [armes] 640
+[armes][an] -> [armesan] 641
+[W][ra] -> [Wra] 642
+[F][ill ] -> [Fill ] 643
+[s][a] -> [sa] 644
+[.\u000a  ][V] -> [.\u000a  V] 645
+[u][s] -> [us] 646
+[i][ ] -> [i ] 647
+[r][ice ] -> [rice ] 648
+[ s][he] -> [ she] 649
+[ she][et] -> [ sheet] 650
+[M][ake ] -> [Make ] 651
+[, add ][to] -> [, add to] 652
+[g][ra] -> [gra] 653
+[gra][v] -> [grav] 654
+[grav][y] -> [gravy] 655
+[team][ed ] -> [teamed ] 656
+[/][veggies] -> [/veggies] 657
+[fri][ed ] -> [fried ] 658
+[R][ice] -> [Rice] 659
+[: B][oil ] -> [: Boil ] 660
+[.\u000a  ][F] -> [.\u000a  F] 661
+[b][er] -> [ber] 662
+[: Cook ][chicken] -> [: Cook chicken] 663
+[. ][B] -> [. B] 664
+[. B][ake ] -> [. Bake ] 665
+[C][urry] -> [Curry] 666
+[b][as] -> [bas] 667
+[.\u000a  ][T] -> [.\u000a  T] 668
+[P][i] -> [Pi] 669
+[Pi][e: ] -> [Pie: ] 670
+[, and ][spices] -> [, and spices] 671
+[ch][ick] -> [chick] 672
+[chick][p] -> [chickp] 673
+[chickp][ea] -> [chickpea] 674
+[.\u000a  ][H] -> [.\u000a  H] 675
+[co][conut] -> [coconut] 676
+[dee][p ] -> [deep ] 677
+[a: ][B] -> [a: B] 678
+[i][: ] -> [i: ] 679
+[co][at] -> [coat] 680
+[s][, s] -> [s, s] 681
+[a ][C] -> [a C] 682
+[ sugar][ s] -> [ sugar s] 683
+[ sugar s][yrup] -> [ sugar syrup] 684
+[z][e ] -> [ze ] 685
+[is][c] -> [isc] 686
+[isc][uit] -> [iscuit] 687
+[ff][ee] -> [ffee] 688
+[pp][l] -> [ppl] 689
+[e][e ] -> [ee ] 690
+[o][ff] -> [off] 691
+[: B][lend ] -> [: Blend ] 692
+[a ][powder] -> [a powder] 693
+[r][e] -> [re] 694
+[re][w] -> [rew] 695
+[J][uice] -> [Juice] 696
+[cak][es] -> [cakes] 697
+[: Mix ][flour] -> [: Mix flour] 698
+[, b][ak] -> [, bak] 699
+[mel][ted ] -> [melted ] 700
+[until][ b] -> [until b] 701
+[until b][ub] -> [until bub] 702
+[until bub][bl] -> [until bubbl] 703
+[ ][f] -> [ f] 704
+[, and s][erve with s] -> [, and serve with s] 705
+[, and serve with s][yrup] -> [, and serve with syrup] 706
+[Fr][en] -> [Fren] 707
+[Fren][c] -> [Frenc] 708
+[Frenc][h ] -> [French ] 709
+[Toast][: ] -> [Toast: ] 710
+[c][in] -> [cin] 711
+[ brea][d ] -> [ bread ] 712
+[es, ][fry ] -> [es, fry ] 713
+[in][ butter] -> [in butter] 714
+[fruit][s.\u000a  ] -> [fruits.\u000a  ] 715
+[our][ into] -> [our into] 716
+[, add ][filling] -> [, add filling] 717
+[, add filling][s ] -> [, add fillings ] 718
+[, add fillings ][(] -> [, add fillings (] 719
+[)][, ] -> [), ] 720
+[lem][on ] -> [lemon ] 721
+[lemon ][j] -> [lemon j] 722
+[lemon j][uice] -> [lemon juice] 723
+[, s][alt] -> [, salt] 724
+[, and p][epper] -> [, and pepper] 725
+[to][ast] -> [toast] 726
+[o][p] -> [op] 727
+[t][i] -> [ti] 728
+[ s][lic] -> [ slic] 729
+[ slic][es] -> [ slices] 730
+[k][a: Cook ] -> [ka: Cook ] 731
+[until s][et] -> [until set] 732
+[rea][d] -> [read] 733
+[hone][y] -> [honey] 734
+[. ][Add ] -> [. Add ] 735
+[nut][s] -> [nuts] 736
+[it][o] -> [ito] 737
+[c][ram] -> [cram] 738
+[veggies][, bean] -> [veggies, bean] 739
+[cheese][. ] -> [cheese. ] 740
+[si][d] -> [sid] 741
+[sid][e ] -> [side ] 742
+[a ][tortil] -> [a tortil] 743
+[l][a ] -> [la ] 744
+[ring][ ] -> [ring ] 745
+[a ][P] -> [a P] 746
+[: Mix ][ch] -> [: Mix ch] 747
+[ s][eed] -> [ seed] 748
+[milk ][and ] -> [milk and ] 749
+[n][i] -> [ni] 750
+[gh][t] -> [ght] 751
+[, s][erve with ] -> [, serve with ] 752
+[er][m] -> [erm] 753
+[erm][en] -> [ermen] 754
+[ermen][ted ] -> [ermented ] 755
+[ermented ][rice] -> [ermented rice] 756
+[ermented rice][-] -> [ermented rice-] 757
+[ermented rice-][lentil] -> [ermented rice-lentil] 758
+[ermented rice-lentil][ batter] -> [ermented rice-lentil batter] 759
+[until ][fl] -> [until fl] 760
+[until fl][uff] -> [until fluff] 761
+[. Serve with ][chutne] -> [. Serve with chutne] 762
+[. Serve with chutne][y ] -> [. Serve with chutney ] 763
+[. Serve with chutney ][and s] -> [. Serve with chutney and s] 764
+[. Serve with chutney and s][am] -> [. Serve with chutney and sam] 765
+[. Serve with chutney and sam][b] -> [. Serve with chutney and samb] 766
+[. Serve with chutney and samb][ar] -> [. Serve with chutney and sambar] 767
+[.\u000a  ][D] -> [.\u000a  D] 768
+[os][a: S] -> [osa: S] 769
+[, ][cook ] -> [, cook ] 770
+[ d][ou] -> [ dou] 771
+[gh][ee] -> [ghee] 772
+[th][en ] -> [then ] 773
+[then ][cook] -> [then cook] 774
+[then cook][ with onion] -> [then cook with onion] 775
+[then cook with onion][s, ] -> [then cook with onions, ] 776
+[m][er] -> [mer] 777
+[, ][chil] -> [, chil] 778
+[, and p][ean] -> [, and pean] 779
+[, and pean][ut] -> [, and peanut] 780
+[s. ][Garnish with ] -> [s. Garnish with ] 781
+[o][ast] -> [oast] 782
+[gre][en ] -> [green ] 783
+[b][oil] -> [boil] 784
+[ ][water] -> [ water] 785
+[.\u000a  ][Gr] -> [.\u000a  Gr] 786
+[.\u000a  Gr][illed ] -> [.\u000a  Grilled ] 787
+[.\u000a  Grilled ][Ch] -> [.\u000a  Grilled Ch] 788
+[ees][e ] -> [eese ] 789
+[p][la] -> [pla] 790
+[pla][c] -> [plac] 791
+[w][e] -> [we] 792
+[r][ow] -> [row] 793
+[row][n] -> [rown] 794
+[.\u000a  C][a] -> [.\u000a  Ca] 795
+[es][ar] -> [esar] 796
+[ S][al] -> [ Sal] 797
+[ Sal][ad] -> [ Salad] 798
+[.\u000a  Ch][icken] -> [.\u000a  Chicken] 799
+[.\u000a  Chicken][ ] -> [.\u000a  Chicken ] 800
+[Wra][p] -> [Wrap] 801
+[: ][Fill ] -> [: Fill ] 802
+[gr][illed ] -> [grilled ] 803
+[grilled ][chicken] -> [grilled chicken] 804
+[grilled chicken][, ] -> [grilled chicken, ] 805
+[, and s][auc] -> [, and sauc] 806
+[r][i] -> [ri] 807
+[a: Cook ][p] -> [a: Cook p] 808
+[, and p][armesan] -> [, and parmesan] 809
+[ie ][B] -> [ie B] 810
+[lettuc][e, ] -> [lettuce, ] 811
+[es][.\u000a  R] -> [es.\u000a  R] 812
+[ean][s] -> [eans] 813
+[s][: S] -> [s: S] 814
+[ice][.\u000a  B] -> [ice.\u000a  B] 815
+[s][s] -> [ss] 816
+[q][u] -> [qu] 817
+[d][ressing] -> [dressing] 818
+[ b][owl] -> [ bowl] 819
+[until s][oft] -> [until soft] 820
+[a ][Ch] -> [a Ch] 821
+[a Ch][a] -> [a Cha] 822
+[tomato][ ] -> [tomato ] 823
+[tomato ][gravy] -> [tomato gravy] 824
+[meat][/veggies] -> [meat/veggies] 825
+[Rice][: S] -> [Rice: S] 826
+[so][y] -> [soy] 827
+[egg][s, and ] -> [eggs, and ] 828
+[mix][ed ] -> [mixed ] 829
+[mixed ][veg] -> [mixed veg] 830
+[mixed veg][eta] -> [mixed vegeta] 831
+[mixed vegeta][bl] -> [mixed vegetabl] 832
+[oo][d] -> [ood] 833
+[.\u000a  F][al] -> [.\u000a  Fal] 834
+[a][f] -> [af] 835
+[af][el] -> [afel] 836
+[tuff][ p] -> [tuff p] 837
+[it][a] -> [ita] 838
+[t][a] -> [ta] 839
+[ta][h] -> [tah] 840
+[tah][in] -> [tahin] 841
+[tahin][i] -> [tahini] 842
+[ sauc][e] -> [ sauce] 843
+[utter][ ] -> [utter ] 844
+[n][a] -> [na] 845
+[.\u000a  P][an] -> [.\u000a  Pan] 846
+[as][al] -> [asal] 847
+[ ][c] -> [ c] 848
+[oni][on ] -> [onion ] 849
+[.\u000a  ][L] -> [.\u000a  L] 850
+[a][g] -> [ag] 851
+[a: ][Layer] -> [a: Layer] 852
+[ p][ast] -> [ past] 853
+[y][.\u000a  S] -> [y.\u000a  S] 854
+[y.\u000a  S][p] -> [y.\u000a  Sp] 855
+[a][gh] -> [agh] 856
+[agh][ett] -> [aghett] 857
+[aghett][i] -> [aghetti] 858
+[ s][p] -> [ sp] 859
+[ co][conut] -> [ coconut] 860
+[Fr][y] -> [Fry] 861
+[ sauc][e ] -> [ sauce ] 862
+[meat][/veg] -> [meat/veg] 863
+[, s][al] -> [, sal] 864
+[, sal][sa] -> [, salsa] 865
+[ol][d ] -> [old ] 866
+[Pie: ][Layer] -> [Pie: Layer] 867
+[m][in] -> [min] 868
+[c][ed ] -> [ced ] 869
+[ed ][potato] -> [ed potato] 870
+[es][, bake ] -> [es, bake ] 871
+[es, bake ][until golden] -> [es, bake until golden] 872
+[z][z] -> [zz] 873
+[d][ou] -> [dou] 874
+[bas][il] -> [basil] 875
+[Curry][: Cook chicken] -> [Curry: Cook chicken] 876
+[h][at] -> [hat] 877
+[hat][ur] -> [hatur] 878
+[e: ][Make ] -> [e: Make ] 879
+[H][al] -> [Hal] 880
+[ow][ ] -> [ow ] 881
+[w][he] -> [whe] 882
+[meat][ with ] -> [meat with ] 883
+[meat with ][spices] -> [meat with spices] 884
+[coconut][ ] -> [coconut ] 885
+[milk][ with ] -> [milk with ] 886
+[is][o] -> [iso] 887
+[l][ ] -> [l ] 888
+[l ][P] -> [l P] 889
+[ ][filling] -> [ filling] 890
+[g][h ] -> [gh ] 891
+[fr][y] -> [fry] 892
+[D][ip ] -> [Dip ] 893
+[ batter][, ] -> [ batter, ] 894
+[deep ][fry ] -> [deep fry ] 895
+[Layer][ co] -> [Layer co] 896
+[r][n] -> [rn] 897
+[chees][e ] -> [cheese ] 898
+[H][eat ] -> [Heat ] 899
+[a: B][lend ] -> [a: Blend ] 900
+[i: ][Mix] -> [i: Mix] 901
+[spices][, shape into] -> [spices, shape into] 902
+[ies][, ] -> [ies, ] 903
+[fr][y.\u000a  ] -> [fry.\u000a  ] 904
+[s][ in] -> [s in] 905
+[s, ][coat] -> [s, coat] 906
+[chutne][y] -> [chutney] 907
+[chutney][s, ] -> [chutneys, ] 908
+[.\u000a  Ch][ocolat] -> [.\u000a  Chocolat] 909
+[.\u000a  Chocolat][e ] -> [.\u000a  Chocolate ] 910
+[e: ][Mix ] -> [e: Mix ] 911
+[co][co] -> [coco] 912
+[, sugar][, ] -> [, sugar, ] 913
+[an][ill] -> [anill] 914
+[cak][es with ] -> [cakes with ] 915
+[g][y.\u000a  ] -> [gy.\u000a  ] 916
+[Fr][y ] -> [Fry ] 917
+[oak ][in] -> [oak in] 918
+[oak in][ sugar syrup] -> [oak in sugar syrup] 919
+[p][on] -> [pon] 920
+[, ][car] -> [, car] 921
+[d][am] -> [dam] 922
+[dam][om] -> [damom] 923
+[nut][s.\u000a  ] -> [nuts.\u000a  ] 924
+[Wh][ip ] -> [Whip ] 925
+[Whip ][cream] -> [Whip cream] 926
+[ee][ze ] -> [eeze ] 927
+[b][iscuit] -> [biscuit] 928
+[ppl][e ] -> [pple ] 929
+[ with ][g] -> [ with g] 930
+[ice ][cream] -> [ice cream] 931
+[, ][chill] -> [, chill] 932
+[.\u000a  M][ango] -> [.\u000a  Mango] 933
+[t][ick] -> [tick] 934
+[tick][y ] -> [ticky ] 935
+[m][ango] -> [mango] 936
+[.\u000a  M][o] -> [.\u000a  Mo] 937
+[.\u000a  ][J] -> [.\u000a  J] 938
+[.\u000a  J][al] -> [.\u000a  Jal] 939
+[off][ee ] -> [offee ] 940
+[, b][anan] -> [, banan] 941
+[tra][in] -> [train] 942
+[until ][fr] -> [until fr] 943
+[until fr][ot] -> [until frot] 944
+[until frot][h] -> [until froth] 945
+[until froth][y] -> [until frothy] 946
+[yogurt][, ] -> [yogurt, ] 947
+[: B][rew] -> [: Brew] 948
+[ and ][ice] -> [ and ice] 949
+[mel][on ] -> [melon ] 950
+[e ][Juice] -> [e Juice] 951
+[tra][w] -> [traw] 952
+[traw][ber] -> [trawber] 953
+[trawber][r] -> [trawberr] 954
+[hak][e: Blend ] -> [hake: Blend ] 955
+[j][eer] -> [jeer] 956
+[a powder][ with ] -> [a powder with ] 957
+[L][att] -> [Latt] 958
+[s][teamed ] -> [steamed ] 959
+[at][ch] -> [atch] 960
+[c][an] -> [can] 961
+[P][an] -> [Pan] 962
+[Pan][cakes] -> [Pancakes] 963
+[Pancakes][: Mix flour] -> [Pancakes: Mix flour] 964
+[Pancakes: Mix flour][, bak] -> [Pancakes: Mix flour, bak] 965
+[Pancakes: Mix flour, bak][ing] -> [Pancakes: Mix flour, baking] 966
+[Pancakes: Mix flour, baking][ p] -> [Pancakes: Mix flour, baking p] 967
+[Pancakes: Mix flour, baking p][owder] -> [Pancakes: Mix flour, baking powder] 968
+[Pancakes: Mix flour, baking powder][, sugar, and ] -> [Pancakes: Mix flour, baking powder, sugar, and ] 969
+[Pancakes: Mix flour, baking powder, sugar, and ][salt] -> [Pancakes: Mix flour, baking powder, sugar, and salt] 970
+[Pancakes: Mix flour, baking powder, sugar, and salt][. ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. ] 971
+[Pancakes: Mix flour, baking powder, sugar, and salt. ][Whisk ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk ] 972
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk ][in ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in ] 973
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in ][milk, ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, ] 974
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, ][egg] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg] 975
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg][, and ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and ] 976
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and ][melted ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted ] 977
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted ][butter] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter] 978
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter][. ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. ] 979
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. ][Cook ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook ] 980
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook ][on a hot pan] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan] 981
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan][ ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan ] 982
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan ][until bubbl] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbl] 983
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbl][es] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles] 984
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles][ f] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles f] 985
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles f][or] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles for] 986
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles for][m] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form] 987
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form][, ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, ] 988
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, ][fl] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, fl] 989
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, fl][ip] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip] 990
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip][, and serve with syrup] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup] 991
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup][.\u000a  ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  ] 992
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  ][French ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French ] 993
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French ][Toast: ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: ] 994
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: ][Whisk ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk ] 995
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk ][egg] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk egg] 996
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk egg][s, ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, ] 997
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, ][milk, sugar, and ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and ] 998
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and ][cin] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cin] 999
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cin][n] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinn] 1000
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinn][am] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnam] 1001
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnam][on] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon] 1002
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon][. ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. ] 1003
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. ][D] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. D] 1004
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. D][ip] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip] 1005
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip][ bread ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread ] 1006
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread ][s] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread s] 1007
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread s][lic] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slic] 1008
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slic][es, fry ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry ] 1009
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry ][in butter] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter] 1010
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter][ ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter ] 1011
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter ][until golden] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden] 1012
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden][, and serve with syrup] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup] 1013
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup][ or ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or ] 1014
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or ][fruits.\u000a  ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  ] 1015
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  ][O] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  O] 1016
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  O][mel] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omel] 1017
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omel][ett] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelett] 1018
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelett][e: B] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: B] 1019
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: B][eat ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat ] 1020
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat ][eggs with ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat eggs with ] 1021
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat eggs with ][salt] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat eggs with salt] 1022
+[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat eggs with salt][ and ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat eggs with salt and ] 1023
