@@ -1,3 +1,4 @@
-/.qodo/
-/Data/
-/NoteBook/3_TransformerModel.ipynb
+./.qodo/
+./Data/
+./NoteBook/3_TransformerModel.ipynb
+./Data/dataset.txt
