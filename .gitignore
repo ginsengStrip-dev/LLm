@@ -1,8 +1,8 @@
 # Ignore .qodo folder
-.qodo/
+/.qodo
 
 # Ignore Data folder
-Data/
+/Data
 
 # Ignore specific notebook
 NoteBook/3_TransformerModel.ipynb
