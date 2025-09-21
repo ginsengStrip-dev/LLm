@@ -254,771 +254,2239 @@
 [�] 253
 [�] 254
 [�] 255
-[,][ ] -> [, ] 256
-[d][ ] -> [d ] 257
-[a][n] -> [an] 258
-[e][r] -> [er] 259
-[:][ ] -> [: ] 260
-[i][l] -> [il] 261
-[.][\u000a] -> [.\u000a] 262
-[.\u000a][ ] -> [.\u000a ] 263
-[.\u000a ][ ] -> [.\u000a  ] 264
-[i][t] -> [it] 265
-[h][ ] -> [h ] 266
-[e][ ] -> [e ] 267
-[w][it] -> [wit] 268
-[wit][h ] -> [with ] 269
-[i][c] -> [ic] 270
-[e][s] -> [es] 271
-[i][n] -> [in] 272
-[an][d ] -> [and ] 273
-[a][t] -> [at] 274
-[ ][with ] -> [ with ] 275
-[o][n] -> [on] 276
-[a][r] -> [ar] 277
-[e][a] -> [ea] 278
-[, ][and ] -> [, and ] 279
-[c][h] -> [ch] 280
+[e][ ] -> [e ] 256
+[.][ ] -> [. ] 257
+[t][ ] -> [t ] 258
+[t][h] -> [th] 259
+[o][u] -> [ou] 260
+[s][ ] -> [s ] 261
+[i][n] -> [in] 262
+[o][ ] -> [o ] 263
+[d][ ] -> [d ] 264
+[e][r] -> [er] 265
+[y][ou] -> [you] 266
+[y][ ] -> [y ] 267
+[a][n] -> [an] 268
+[i][ ] -> [i ] 269
+[?][ ] -> [? ] 270
+[o][n] -> [on] 271
+[l][l] -> [ll] 272
+[,][ ] -> [, ] 273
+[th][e ] -> [the ] 274
+[you][ ] -> [you ] 275
+[h][a] -> [ha] 276
+[t][o ] -> [to ] 277
+[a][ ] -> [a ] 278
+[in][g] -> [ing] 279
+[a][r] -> [ar] 280
 [e][n] -> [en] 281
-[e][d ] -> [ed ] 282
-[.][ ] -> [. ] 283
-[t][o] -> [to] 284
-[ ][s] -> [ s] 285
-[t][il] -> [til] 286
-[a][l] -> [al] 287
-[u][t] -> [ut] 288
-[ ][b] -> [ b] 289
-[c][o] -> [co] 290
-[, ][s] -> [, s] 291
-[k][ ] -> [k ] 292
-[e][g] -> [eg] 293
-[u][n] -> [un] 294
-[r][ea] -> [rea] 295
-[a][s] -> [as] 296
-[a][k] -> [ak] 297
-[g][ar] -> [gar] 298
-[un][til] -> [until] 299
-[er][v] -> [erv] 300
-[il][l] -> [ill] 301
-[ic][e] -> [ice] 302
-[u][r] -> [ur] 303
-[eg][g] -> [egg] 304
-[o][o] -> [oo] 305
-[a][ ] -> [a ] 306
-[e ][with ] -> [e with ] 307
-[in][g] -> [ing] 308
-[f][r] -> [fr] 309
-[u][gar] -> [ugar] 310
-[m][il] -> [mil] 311
-[a][d] -> [ad] 312
-[y][ ] -> [y ] 313
-[o][l] -> [ol] 314
-[i][s] -> [is] 315
-[e][t] -> [et] 316
-[a][: ] -> [a: ] 317
-[t][er] -> [ter] 318
-[o][t] -> [ot] 319
-[ ][in] -> [ in] 320
-[i][x] -> [ix] 321
-[mil][k] -> [milk] 322
-[e][: ] -> [e: ] 323
-[i][es] -> [ies] 324
-[at][o] -> [ato] 325
-[m][e] -> [me] 326
-[erv][e with ] -> [erve with ] 327
-[until][ ] -> [until ] 328
-[. ][S] -> [. S] 329
-[C][oo] -> [Coo] 330
-[ ][and ] -> [ and ] 331
-[p][ic] -> [pic] 332
-[.\u000a  ][C] -> [.\u000a  C] 333
-[ic][k] -> [ick] 334
-[o][w] -> [ow] 335
-[Coo][k ] -> [Cook ] 336
-[s][pic] -> [spic] 337
-[e][e] -> [ee] 338
-[ ][p] -> [ p] 339
-[o][r] -> [or] 340
-[as][t] -> [ast] 341
-[s][ with ] -> [s with ] 342
-[r][a] -> [ra] 343
-[u][c] -> [uc] 344
-[f][f] -> [ff] 345
-[M][ix] -> [Mix] 346
-[, ][b] -> [, b] 347
-[ut][ter] -> [utter] 348
-[on][ ] -> [on ] 349
-[e][es] -> [ees] 350
-[v][egg] -> [vegg] 351
-[to][m] -> [tom] 352
-[tom][ato] -> [tomato] 353
-[l][en] -> [len] 354
-[rea][m] -> [ream] 355
-[r][ice] -> [rice] 356
-[ak][e ] -> [ake ] 357
-[s][, ] -> [s, ] 358
-[vegg][ies] -> [veggies] 359
-[. S][erve with ] -> [. Serve with ] 360
-[c][ream] -> [cream] 361
-[Mix][ ] -> [Mix ] 362
-[u][p] -> [up] 363
-[p][p] -> [pp] 364
-[, ][ad] -> [, ad] 365
-[, ad][d ] -> [, add ] 366
-[e][m] -> [em] 367
-[.\u000a  ][S] -> [.\u000a  S] 368
-[f][l] -> [fl] 369
-[, s][ugar] -> [, sugar] 370
-[a][m] -> [am] 371
-[l][ic] -> [lic] 372
-[ch][ees] -> [chees] 373
-[p][ with ] -> [p with ] 374
-[on][i] -> [oni] 375
-[.\u000a  ][B] -> [.\u000a  B] 376
-[at][er] -> [ater] 377
-[: ][S] -> [: S] 378
-[g][h] -> [gh] 379
-[: ][B] -> [: B] 380
-[ick][en] -> [icken] 381
-[co][o] -> [coo] 382
-[to][p with ] -> [top with ] 383
-[spic][es] -> [spices] 384
-[a][uc] -> [auc] 385
-[until][ s] -> [until s] 386
-[len][d ] -> [lend ] 387
-[ch][ill] -> [chill] 388
-[: ][Cook ] -> [: Cook ] 389
-[ in][ ] -> [ in ] 390
-[w][ater] -> [water] 391
-[.\u000a  C][h] -> [.\u000a  Ch] 392
-[.\u000a  ][P] -> [.\u000a  P] 393
-[o][il] -> [oil] 394
-[p][ ] -> [p ] 395
-[: ][Mix ] -> [: Mix ] 396
-[o][ur] -> [our] 397
-[, sugar][, and ] -> [, sugar, and ] 398
-[b][l] -> [bl] 399
-[F][r] -> [Fr] 400
-[ b][rea] -> [ brea] 401
-[ol][d] -> [old] 402
-[or][ ] -> [or ] 403
-[e][, ] -> [e, ] 404
-[oni][on] -> [onion] 405
-[ic][e ] -> [ice ] 406
-[e][an] -> [ean] 407
-[s][, and ] -> [s, and ] 408
-[u][ff] -> [uff] 409
-[v][eg] -> [veg] 410
-[h][e] -> [he] 411
-[me][at] -> [meat] 412
-[d][er] -> [der] 413
-[W][h] -> [Wh] 414
-[me][l] -> [mel] 415
-[, and ][s] -> [, and s] 416
-[y][r] -> [yr] 417
-[yr][up] -> [yrup] 418
-[T][o] -> [To] 419
-[u][it] -> [uit] 420
-[s][.\u000a  ] -> [s.\u000a  ] 421
-[et][t] -> [ett] 422
-[s][ ] -> [s ] 423
-[l][em] -> [lem] 424
-[ s][auc] -> [ sauc] 425
-[ur][r] -> [urr] 426
-[ and ][s] -> [ and s] 427
-[t][ea] -> [tea] 428
-[g][r] -> [gr] 429
-[C][h] -> [Ch] 430
-[e ][in] -> [e in] 431
-[a][y] -> [ay] 432
-[ay][er] -> [ayer] 433
-[.\u000a  ][M] -> [.\u000a  M] 434
-[an][g] -> [ang] 435
-[al][l] -> [all] 436
-[fl][our] -> [flour] 437
-[ow][der] -> [owder] 438
-[al][t] -> [alt] 439
-[milk][, ] -> [milk, ] 440
-[fr][y ] -> [fry ] 441
-[until ][g] -> [until g] 442
-[until g][old] -> [until gold] 443
-[until gold][en] -> [until golden] 444
-[e: ][B] -> [e: B] 445
-[ brea][d] -> [ bread] 446
-[, and ][p] -> [, and p] 447
-[rea][d ] -> [read ] 448
-[gar][lic] -> [garlic] 449
-[t][h] -> [th] 450
-[erv][e ] -> [erve ] 451
-[ol][l] -> [oll] 452
-[s][: ] -> [s: ] 453
-[i][r] -> [ir] 454
-[ b][at] -> [ bat] 455
-[ bat][ter] -> [ batter] 456
-[n][e] -> [ne] 457
-[c][r] -> [cr] 458
-[ ][S] -> [ S] 459
-[ch][icken] -> [chicken] 460
-[, ][top with ] -> [, top with ] 461
-[L][ayer] -> [Layer] 462
-[on][ut] -> [onut] 463
-[co][l] -> [col] 464
-[c][ak] -> [cak] 465
-[Wh][is] -> [Whis] 466
-[Whis][k ] -> [Whisk ] 467
-[h][ot] -> [hot] 468
-[ p][an] -> [ pan] 469
-[e][pp] -> [epp] 470
-[epp][er] -> [epper] 471
-[f][ill] -> [fill] 472
-[fill][ing] -> [filling] 473
-[erv][e] -> [erve] 474
-[u][ice] -> [uice] 475
-[p][read ] -> [pread ] 476
-[a: ][Cook ] -> [a: Cook ] 477
-[coo][k ] -> [cook ] 478
-[n][ut] -> [nut] 479
-[ ][B] -> [ B] 480
-[chees][e] -> [cheese] 481
-[R][oll] -> [Roll] 482
-[and ][s] -> [and s] 483
-[ow][l] -> [owl] 484
-[tea][m] -> [team] 485
-[a: ][S] -> [a: S] 486
-[ ][d] -> [ d] 487
-[o][u] -> [ou] 488
-[t][uff] -> [tuff] 489
-[spic][ed ] -> [spiced ] 490
-[ot][ato] -> [otato] 491
-[at][t] -> [att] 492
-[en][ ] -> [en ] 493
-[is][h ] -> [ish ] 494
-[lem][on] -> [lemon] 495
-[l][a] -> [la] 496
-[ill][ ] -> [ill ] 497
-[r][es] -> [res] 498
-[res][s] -> [ress] 499
-[m][ix] -> [mix] 500
-[u][m] -> [um] 501
-[. Serve with ][rice] -> [. Serve with rice] 502
-[ic][e with ] -> [ice with ] 503
-[r][ot] -> [rot] 504
-[e][l] -> [el] 505
-[e][er] -> [eer] 506
-[o][g] -> [og] 507
-[urr][y] -> [urry] 508
-[ ][co] -> [ co] 509
-[c][onut] -> [conut] 510
-[es][ with ] -> [es with ] 511
-[h][a] -> [ha] 512
-[y][.\u000a  ] -> [y.\u000a  ] 513
-[o][col] -> [ocol] 514
-[ocol][at] -> [ocolat] 515
-[p][owder] -> [powder] 516
-[ s][ugar] -> [ sugar] 517
-[c][ar] -> [car] 518
-[t][ed ] -> [ted ] 519
-[b][utter] -> [butter] 520
-[a ][hot] -> [a hot] 521
-[a hot][ pan] -> [a hot pan] 522
-[To][ast] -> [Toast] 523
-[es][, ] -> [es, ] 524
-[ b][utter] -> [ butter] 525
-[fr][uit] -> [fruit] 526
-[coo][k] -> [cook] 527
-[v][o] -> [vo] 528
-[vo][c] -> [voc] 529
-[voc][ad] -> [vocad] 530
-[vocad][o] -> [vocado] 531
-[v][er] -> [ver] 532
-[an][an] -> [anan] 533
-[m][oo] -> [moo] 534
-[moo][th] -> [mooth] 535
-[e: B][lend ] -> [e: Blend ] 536
-[e][d] -> [ed] 537
-[ar][m] -> [arm] 538
-[r][ing] -> [ring] 539
-[u][d] -> [ud] 540
-[mil][k ] -> [milk ] 541
-[fr][i] -> [fri] 542
-[len][til] -> [lentil] 543
-[ch][ut] -> [chut] 544
-[chut][ne] -> [chutne] 545
-[o][s] -> [os] 546
-[p][otato] -> [potato] 547
-[/][veg] -> [/veg] 548
-[o][a] -> [oa] 549
-[ with ][onion] -> [ with onion] 550
-[G][ar] -> [Gar] 551
-[ ][until s] -> [ until s] 552
-[o][f] -> [of] 553
-[G][r] -> [Gr] 554
-[ill][ed ] -> [illed ] 555
-[i][e ] -> [ie ] 556
-[.\u000a  ][R] -> [.\u000a  R] 557
-[r][ice with ] -> [rice with ] 558
-[s][o] -> [so] 559
-[oil][ ] -> [oil ] 560
-[, b][ake ] -> [, bake ] 561
-[d][ee] -> [dee] 562
-[, s][ha] -> [, sha] 563
-[, sha][p] -> [, shap] 564
-[, shap][e in] -> [, shape in] 565
-[, shape in][to] -> [, shape into] 566
-[i][p ] -> [ip ] 567
-[ b][all] -> [ ball] 568
-[y][og] -> [yog] 569
-[yog][ur] -> [yogur] 570
-[yogur][t] -> [yogurt] 571
-[ang][o] -> [ango] 572
-[t][ra] -> [tra] 573
-[s][alt] -> [salt] 574
-[in][ ] -> [in ] 575
-[on ][a hot pan] -> [on a hot pan] 576
-[u][b] -> [ub] 577
-[i][p] -> [ip] 578
-[erve with ][s] -> [erve with s] 579
-[milk][, sugar, and ] -> [milk, sugar, and ] 580
-[ ][or ] -> [ or ] 581
-[e][at] -> [eat] 582
-[eat][ ] -> [eat ] 583
-[egg][s with ] -> [eggs with ] 584
-[ in][to] -> [ into] 585
-[, ][or ] -> [, or ] 586
-[.\u000a  ][A] -> [.\u000a  A] 587
-[ bread][, ] -> [ bread, ] 588
-[m][as] -> [mas] 589
-[a][vocado] -> [avocado] 590
-[al][ ] -> [al ] 591
-[h][ak] -> [hak] 592
-[, ][garlic] -> [, garlic] 593
-[s][. ] -> [s. ] 594
-[A][d] -> [Ad] 595
-[Ad][d ] -> [Add ] 596
-[tomato][es] -> [tomatoes] 597
-[ sauc][e, ] -> [ sauce, ] 598
-[a][, ] -> [a, ] 599
-[h][on] -> [hon] 600
-[hon][e] -> [hone] 601
-[erve ][chill] -> [erve chill] 602
-[erve chill][ed] -> [erve chilled] 603
-[.\u000a  ][O] -> [.\u000a  O] 604
-[s][ in ] -> [s in ] 605
-[s][ugar] -> [sugar] 606
-[ra][m] -> [ram] 607
-[bl][e ] -> [ble ] 608
-[, b][ean] -> [, bean] 609
-[s][i] -> [si] 610
-[to][r] -> [tor] 611
-[tor][til] -> [tortil] 612
-[t][ir] -> [tir] 613
-[ea][s] -> [eas] 614
-[eas][on] -> [eason] 615
-[ and s][erve] -> [ and serve] 616
-[ud][d] -> [udd] 617
-[ee][d] -> [eed] 618
-[g][er] -> [ger] 619
-[l][i] -> [li] 620
-[until ][cr] -> [until cr] 621
-[until cr][is] -> [until cris] 622
-[until cris][p] -> [until crisp] 623
-[ with ][spiced ] -> [ with spiced ] 624
-[et][a] -> [eta] 625
-[oa][k ] -> [oak ] 626
-[rice][, ] -> [rice, ] 627
-[ch][il] -> [chil] 628
-[Gar][n] -> [Garn] 629
-[Garn][ish ] -> [Garnish ] 630
-[Garnish ][with ] -> [Garnish with ] 631
-[g][ing] -> [ging] 632
-[ging][er] -> [ginger] 633
-[gr][e] -> [gre] 634
-[of][t] -> [oft] 635
-[o][m] -> [om] 636
-[l][ett] -> [lett] 637
-[lett][uc] -> [lettuc] 638
-[ress][ing] -> [ressing] 639
-[arm][es] -> [armes] 640
-[armes][an] -> [armesan] 641
-[W][ra] -> [Wra] 642
-[F][ill ] -> [Fill ] 643
-[s][a] -> [sa] 644
-[.\u000a  ][V] -> [.\u000a  V] 645
-[u][s] -> [us] 646
-[i][ ] -> [i ] 647
-[r][ice ] -> [rice ] 648
-[ s][he] -> [ she] 649
-[ she][et] -> [ sheet] 650
-[M][ake ] -> [Make ] 651
-[, add ][to] -> [, add to] 652
-[g][ra] -> [gra] 653
-[gra][v] -> [grav] 654
-[grav][y] -> [gravy] 655
-[team][ed ] -> [teamed ] 656
-[/][veggies] -> [/veggies] 657
-[fri][ed ] -> [fried ] 658
-[R][ice] -> [Rice] 659
-[: B][oil ] -> [: Boil ] 660
-[.\u000a  ][F] -> [.\u000a  F] 661
-[b][er] -> [ber] 662
-[: Cook ][chicken] -> [: Cook chicken] 663
-[. ][B] -> [. B] 664
-[. B][ake ] -> [. Bake ] 665
-[C][urry] -> [Curry] 666
-[b][as] -> [bas] 667
-[.\u000a  ][T] -> [.\u000a  T] 668
-[P][i] -> [Pi] 669
-[Pi][e: ] -> [Pie: ] 670
-[, and ][spices] -> [, and spices] 671
-[ch][ick] -> [chick] 672
-[chick][p] -> [chickp] 673
-[chickp][ea] -> [chickpea] 674
-[.\u000a  ][H] -> [.\u000a  H] 675
-[co][conut] -> [coconut] 676
-[dee][p ] -> [deep ] 677
-[a: ][B] -> [a: B] 678
-[i][: ] -> [i: ] 679
-[co][at] -> [coat] 680
-[s][, s] -> [s, s] 681
-[a ][C] -> [a C] 682
-[ sugar][ s] -> [ sugar s] 683
-[ sugar s][yrup] -> [ sugar syrup] 684
-[z][e ] -> [ze ] 685
-[is][c] -> [isc] 686
-[isc][uit] -> [iscuit] 687
-[ff][ee] -> [ffee] 688
-[pp][l] -> [ppl] 689
-[e][e ] -> [ee ] 690
-[o][ff] -> [off] 691
-[: B][lend ] -> [: Blend ] 692
-[a ][powder] -> [a powder] 693
-[r][e] -> [re] 694
-[re][w] -> [rew] 695
-[J][uice] -> [Juice] 696
-[cak][es] -> [cakes] 697
-[: Mix ][flour] -> [: Mix flour] 698
-[, b][ak] -> [, bak] 699
-[mel][ted ] -> [melted ] 700
-[until][ b] -> [until b] 701
-[until b][ub] -> [until bub] 702
-[until bub][bl] -> [until bubbl] 703
-[ ][f] -> [ f] 704
-[, and s][erve with s] -> [, and serve with s] 705
-[, and serve with s][yrup] -> [, and serve with syrup] 706
-[Fr][en] -> [Fren] 707
-[Fren][c] -> [Frenc] 708
-[Frenc][h ] -> [French ] 709
-[Toast][: ] -> [Toast: ] 710
-[c][in] -> [cin] 711
-[ brea][d ] -> [ bread ] 712
-[es, ][fry ] -> [es, fry ] 713
-[in][ butter] -> [in butter] 714
-[fruit][s.\u000a  ] -> [fruits.\u000a  ] 715
-[our][ into] -> [our into] 716
-[, add ][filling] -> [, add filling] 717
-[, add filling][s ] -> [, add fillings ] 718
-[, add fillings ][(] -> [, add fillings (] 719
-[)][, ] -> [), ] 720
-[lem][on ] -> [lemon ] 721
-[lemon ][j] -> [lemon j] 722
-[lemon j][uice] -> [lemon juice] 723
-[, s][alt] -> [, salt] 724
-[, and p][epper] -> [, and pepper] 725
-[to][ast] -> [toast] 726
-[o][p] -> [op] 727
-[t][i] -> [ti] 728
-[ s][lic] -> [ slic] 729
-[ slic][es] -> [ slices] 730
-[k][a: Cook ] -> [ka: Cook ] 731
-[until s][et] -> [until set] 732
-[rea][d] -> [read] 733
-[hone][y] -> [honey] 734
-[. ][Add ] -> [. Add ] 735
-[nut][s] -> [nuts] 736
-[it][o] -> [ito] 737
-[c][ram] -> [cram] 738
-[veggies][, bean] -> [veggies, bean] 739
-[cheese][. ] -> [cheese. ] 740
-[si][d] -> [sid] 741
-[sid][e ] -> [side ] 742
-[a ][tortil] -> [a tortil] 743
-[l][a ] -> [la ] 744
-[ring][ ] -> [ring ] 745
-[a ][P] -> [a P] 746
-[: Mix ][ch] -> [: Mix ch] 747
-[ s][eed] -> [ seed] 748
-[milk ][and ] -> [milk and ] 749
-[n][i] -> [ni] 750
-[gh][t] -> [ght] 751
-[, s][erve with ] -> [, serve with ] 752
-[er][m] -> [erm] 753
-[erm][en] -> [ermen] 754
-[ermen][ted ] -> [ermented ] 755
-[ermented ][rice] -> [ermented rice] 756
-[ermented rice][-] -> [ermented rice-] 757
-[ermented rice-][lentil] -> [ermented rice-lentil] 758
-[ermented rice-lentil][ batter] -> [ermented rice-lentil batter] 759
-[until ][fl] -> [until fl] 760
-[until fl][uff] -> [until fluff] 761
-[. Serve with ][chutne] -> [. Serve with chutne] 762
-[. Serve with chutne][y ] -> [. Serve with chutney ] 763
-[. Serve with chutney ][and s] -> [. Serve with chutney and s] 764
-[. Serve with chutney and s][am] -> [. Serve with chutney and sam] 765
-[. Serve with chutney and sam][b] -> [. Serve with chutney and samb] 766
-[. Serve with chutney and samb][ar] -> [. Serve with chutney and sambar] 767
-[.\u000a  ][D] -> [.\u000a  D] 768
-[os][a: S] -> [osa: S] 769
-[, ][cook ] -> [, cook ] 770
-[ d][ou] -> [ dou] 771
-[gh][ee] -> [ghee] 772
-[th][en ] -> [then ] 773
-[then ][cook] -> [then cook] 774
-[then cook][ with onion] -> [then cook with onion] 775
-[then cook with onion][s, ] -> [then cook with onions, ] 776
-[m][er] -> [mer] 777
-[, ][chil] -> [, chil] 778
-[, and p][ean] -> [, and pean] 779
-[, and pean][ut] -> [, and peanut] 780
-[s. ][Garnish with ] -> [s. Garnish with ] 781
-[o][ast] -> [oast] 782
-[gre][en ] -> [green ] 783
-[b][oil] -> [boil] 784
-[ ][water] -> [ water] 785
-[.\u000a  ][Gr] -> [.\u000a  Gr] 786
-[.\u000a  Gr][illed ] -> [.\u000a  Grilled ] 787
-[.\u000a  Grilled ][Ch] -> [.\u000a  Grilled Ch] 788
-[ees][e ] -> [eese ] 789
-[p][la] -> [pla] 790
-[pla][c] -> [plac] 791
-[w][e] -> [we] 792
-[r][ow] -> [row] 793
-[row][n] -> [rown] 794
-[.\u000a  C][a] -> [.\u000a  Ca] 795
-[es][ar] -> [esar] 796
-[ S][al] -> [ Sal] 797
-[ Sal][ad] -> [ Salad] 798
-[.\u000a  Ch][icken] -> [.\u000a  Chicken] 799
-[.\u000a  Chicken][ ] -> [.\u000a  Chicken ] 800
-[Wra][p] -> [Wrap] 801
-[: ][Fill ] -> [: Fill ] 802
-[gr][illed ] -> [grilled ] 803
-[grilled ][chicken] -> [grilled chicken] 804
-[grilled chicken][, ] -> [grilled chicken, ] 805
-[, and s][auc] -> [, and sauc] 806
-[r][i] -> [ri] 807
-[a: Cook ][p] -> [a: Cook p] 808
-[, and p][armesan] -> [, and parmesan] 809
-[ie ][B] -> [ie B] 810
-[lettuc][e, ] -> [lettuce, ] 811
-[es][.\u000a  R] -> [es.\u000a  R] 812
-[ean][s] -> [eans] 813
-[s][: S] -> [s: S] 814
-[ice][.\u000a  B] -> [ice.\u000a  B] 815
-[s][s] -> [ss] 816
-[q][u] -> [qu] 817
-[d][ressing] -> [dressing] 818
-[ b][owl] -> [ bowl] 819
-[until s][oft] -> [until soft] 820
-[a ][Ch] -> [a Ch] 821
-[a Ch][a] -> [a Cha] 822
-[tomato][ ] -> [tomato ] 823
-[tomato ][gravy] -> [tomato gravy] 824
-[meat][/veggies] -> [meat/veggies] 825
-[Rice][: S] -> [Rice: S] 826
-[so][y] -> [soy] 827
-[egg][s, and ] -> [eggs, and ] 828
-[mix][ed ] -> [mixed ] 829
-[mixed ][veg] -> [mixed veg] 830
-[mixed veg][eta] -> [mixed vegeta] 831
-[mixed vegeta][bl] -> [mixed vegetabl] 832
-[oo][d] -> [ood] 833
-[.\u000a  F][al] -> [.\u000a  Fal] 834
-[a][f] -> [af] 835
-[af][el] -> [afel] 836
-[tuff][ p] -> [tuff p] 837
-[it][a] -> [ita] 838
-[t][a] -> [ta] 839
-[ta][h] -> [tah] 840
-[tah][in] -> [tahin] 841
-[tahin][i] -> [tahini] 842
-[ sauc][e] -> [ sauce] 843
-[utter][ ] -> [utter ] 844
-[n][a] -> [na] 845
-[.\u000a  P][an] -> [.\u000a  Pan] 846
-[as][al] -> [asal] 847
-[ ][c] -> [ c] 848
-[oni][on ] -> [onion ] 849
-[.\u000a  ][L] -> [.\u000a  L] 850
-[a][g] -> [ag] 851
-[a: ][Layer] -> [a: Layer] 852
-[ p][ast] -> [ past] 853
-[y][.\u000a  S] -> [y.\u000a  S] 854
-[y.\u000a  S][p] -> [y.\u000a  Sp] 855
-[a][gh] -> [agh] 856
-[agh][ett] -> [aghett] 857
-[aghett][i] -> [aghetti] 858
-[ s][p] -> [ sp] 859
-[ co][conut] -> [ coconut] 860
-[Fr][y] -> [Fry] 861
-[ sauc][e ] -> [ sauce ] 862
-[meat][/veg] -> [meat/veg] 863
-[, s][al] -> [, sal] 864
-[, sal][sa] -> [, salsa] 865
-[ol][d ] -> [old ] 866
-[Pie: ][Layer] -> [Pie: Layer] 867
-[m][in] -> [min] 868
-[c][ed ] -> [ced ] 869
-[ed ][potato] -> [ed potato] 870
-[es][, bake ] -> [es, bake ] 871
-[es, bake ][until golden] -> [es, bake until golden] 872
-[z][z] -> [zz] 873
-[d][ou] -> [dou] 874
-[bas][il] -> [basil] 875
-[Curry][: Cook chicken] -> [Curry: Cook chicken] 876
-[h][at] -> [hat] 877
-[hat][ur] -> [hatur] 878
-[e: ][Make ] -> [e: Make ] 879
-[H][al] -> [Hal] 880
-[ow][ ] -> [ow ] 881
-[w][he] -> [whe] 882
-[meat][ with ] -> [meat with ] 883
-[meat with ][spices] -> [meat with spices] 884
-[coconut][ ] -> [coconut ] 885
-[milk][ with ] -> [milk with ] 886
-[is][o] -> [iso] 887
-[l][ ] -> [l ] 888
-[l ][P] -> [l P] 889
-[ ][filling] -> [ filling] 890
-[g][h ] -> [gh ] 891
-[fr][y] -> [fry] 892
-[D][ip ] -> [Dip ] 893
-[ batter][, ] -> [ batter, ] 894
-[deep ][fry ] -> [deep fry ] 895
-[Layer][ co] -> [Layer co] 896
-[r][n] -> [rn] 897
-[chees][e ] -> [cheese ] 898
-[H][eat ] -> [Heat ] 899
-[a: B][lend ] -> [a: Blend ] 900
-[i: ][Mix] -> [i: Mix] 901
-[spices][, shape into] -> [spices, shape into] 902
-[ies][, ] -> [ies, ] 903
-[fr][y.\u000a  ] -> [fry.\u000a  ] 904
-[s][ in] -> [s in] 905
-[s, ][coat] -> [s, coat] 906
-[chutne][y] -> [chutney] 907
-[chutney][s, ] -> [chutneys, ] 908
-[.\u000a  Ch][ocolat] -> [.\u000a  Chocolat] 909
-[.\u000a  Chocolat][e ] -> [.\u000a  Chocolate ] 910
-[e: ][Mix ] -> [e: Mix ] 911
-[co][co] -> [coco] 912
-[, sugar][, ] -> [, sugar, ] 913
-[an][ill] -> [anill] 914
-[cak][es with ] -> [cakes with ] 915
-[g][y.\u000a  ] -> [gy.\u000a  ] 916
-[Fr][y ] -> [Fry ] 917
-[oak ][in] -> [oak in] 918
-[oak in][ sugar syrup] -> [oak in sugar syrup] 919
-[p][on] -> [pon] 920
-[, ][car] -> [, car] 921
-[d][am] -> [dam] 922
-[dam][om] -> [damom] 923
-[nut][s.\u000a  ] -> [nuts.\u000a  ] 924
-[Wh][ip ] -> [Whip ] 925
-[Whip ][cream] -> [Whip cream] 926
-[ee][ze ] -> [eeze ] 927
-[b][iscuit] -> [biscuit] 928
-[ppl][e ] -> [pple ] 929
-[ with ][g] -> [ with g] 930
-[ice ][cream] -> [ice cream] 931
-[, ][chill] -> [, chill] 932
-[.\u000a  M][ango] -> [.\u000a  Mango] 933
-[t][ick] -> [tick] 934
-[tick][y ] -> [ticky ] 935
-[m][ango] -> [mango] 936
-[.\u000a  M][o] -> [.\u000a  Mo] 937
-[.\u000a  ][J] -> [.\u000a  J] 938
-[.\u000a  J][al] -> [.\u000a  Jal] 939
-[off][ee ] -> [offee ] 940
-[, b][anan] -> [, banan] 941
-[tra][in] -> [train] 942
-[until ][fr] -> [until fr] 943
-[until fr][ot] -> [until frot] 944
-[until frot][h] -> [until froth] 945
-[until froth][y] -> [until frothy] 946
-[yogurt][, ] -> [yogurt, ] 947
-[: B][rew] -> [: Brew] 948
-[ and ][ice] -> [ and ice] 949
-[mel][on ] -> [melon ] 950
-[e ][Juice] -> [e Juice] 951
-[tra][w] -> [traw] 952
-[traw][ber] -> [trawber] 953
-[trawber][r] -> [trawberr] 954
-[hak][e: Blend ] -> [hake: Blend ] 955
-[j][eer] -> [jeer] 956
-[a powder][ with ] -> [a powder with ] 957
-[L][att] -> [Latt] 958
-[s][teamed ] -> [steamed ] 959
-[at][ch] -> [atch] 960
-[c][an] -> [can] 961
-[P][an] -> [Pan] 962
-[Pan][cakes] -> [Pancakes] 963
-[Pancakes][: Mix flour] -> [Pancakes: Mix flour] 964
-[Pancakes: Mix flour][, bak] -> [Pancakes: Mix flour, bak] 965
-[Pancakes: Mix flour, bak][ing] -> [Pancakes: Mix flour, baking] 966
-[Pancakes: Mix flour, baking][ p] -> [Pancakes: Mix flour, baking p] 967
-[Pancakes: Mix flour, baking p][owder] -> [Pancakes: Mix flour, baking powder] 968
-[Pancakes: Mix flour, baking powder][, sugar, and ] -> [Pancakes: Mix flour, baking powder, sugar, and ] 969
-[Pancakes: Mix flour, baking powder, sugar, and ][salt] -> [Pancakes: Mix flour, baking powder, sugar, and salt] 970
-[Pancakes: Mix flour, baking powder, sugar, and salt][. ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. ] 971
-[Pancakes: Mix flour, baking powder, sugar, and salt. ][Whisk ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk ] 972
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk ][in ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in ] 973
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in ][milk, ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, ] 974
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, ][egg] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg] 975
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg][, and ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and ] 976
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and ][melted ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted ] 977
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted ][butter] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter] 978
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter][. ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. ] 979
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. ][Cook ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook ] 980
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook ][on a hot pan] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan] 981
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan][ ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan ] 982
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan ][until bubbl] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbl] 983
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbl][es] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles] 984
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles][ f] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles f] 985
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles f][or] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles for] 986
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles for][m] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form] 987
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form][, ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, ] 988
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, ][fl] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, fl] 989
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, fl][ip] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip] 990
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip][, and serve with syrup] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup] 991
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup][.\u000a  ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  ] 992
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  ][French ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French ] 993
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French ][Toast: ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: ] 994
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: ][Whisk ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk ] 995
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk ][egg] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk egg] 996
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk egg][s, ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, ] 997
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, ][milk, sugar, and ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and ] 998
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and ][cin] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cin] 999
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cin][n] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinn] 1000
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinn][am] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnam] 1001
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnam][on] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon] 1002
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon][. ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. ] 1003
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. ][D] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. D] 1004
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. D][ip] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip] 1005
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip][ bread ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread ] 1006
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread ][s] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread s] 1007
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread s][lic] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slic] 1008
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slic][es, fry ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry ] 1009
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry ][in butter] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter] 1010
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter][ ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter ] 1011
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter ][until golden] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden] 1012
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden][, and serve with syrup] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup] 1013
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup][ or ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or ] 1014
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or ][fruits.\u000a  ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  ] 1015
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  ][O] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  O] 1016
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  O][mel] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omel] 1017
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omel][ett] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelett] 1018
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelett][e: B] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: B] 1019
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: B][eat ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat ] 1020
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat ][eggs with ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat eggs with ] 1021
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat eggs with ][salt] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat eggs with salt] 1022
-[Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat eggs with salt][ and ] -> [Pancakes: Mix flour, baking powder, sugar, and salt. Whisk in milk, egg, and melted butter. Cook on a hot pan until bubbles form, flip, and serve with syrup.\u000a  French Toast: Whisk eggs, milk, sugar, and cinnamon. Dip bread slices, fry in butter until golden, and serve with syrup or fruits.\u000a  Omelette: Beat eggs with salt and ] 1023
+[o][r] -> [or] 282
+[e][s] -> [es] 283
+[e][. ] -> [e. ] 284
+[e][a] -> [ea] 285
+[i][t] -> [it] 286
+['][s ] -> ['s ] 287
+[ing][ ] -> [ing ] 288
+[ll][ ] -> [ll ] 289
+[v][e ] -> [ve ] 290
+[th][a] -> [tha] 291
+[o][o] -> [oo] 292
+[o][w] -> [ow] 293
+[i][t ] -> [it ] 294
+[er][ ] -> [er ] 295
+[. ][i ] -> [. i ] 296
+['][t ] -> ['t ] 297
+[. ][w] -> [. w] 298
+[i][s ] -> [is ] 299
+[w][a] -> [wa] 300
+[c][h] -> [ch] 301
+[f][ ] -> [f ] 302
+[o][m] -> [om] 303
+[s][t] -> [st] 304
+[l][i] -> [li] 305
+[s][h] -> [sh] 306
+[d][i] -> [di] 307
+[k][ ] -> [k ] 308
+[e][d ] -> [ed ] 309
+[i]['] -> [i'] 310
+[th][e] -> [the] 311
+[a][y] -> [ay] 312
+[m][ ] -> [m ] 313
+[e][t] -> [et] 314
+[n][o] -> [no] 315
+[w][i] -> [wi] 316
+[b][u] -> [bu] 317
+[k][e ] -> [ke ] 318
+[an][d ] -> [and ] 319
+[n][e] -> [ne] 320
+[r][i] -> [ri] 321
+[o][f ] -> [of ] 322
+[g][h] -> [gh] 323
+[f][or] -> [for] 324
+[en][ ] -> [en ] 325
+[u][s] -> [us] 326
+[in][ ] -> [in ] 327
+[tha][t ] -> [that ] 328
+[g][o] -> [go] 329
+[l][d ] -> [ld ] 330
+[ha][ve ] -> [have ] 331
+[s][. ] -> [s. ] 332
+[t][i] -> [ti] 333
+[r][ea] -> [rea] 334
+[ow][ ] -> [ow ] 335
+[r][ ] -> [r ] 336
+[e][s ] -> [es ] 337
+[d][o ] -> [do ] 338
+[ha][t ] -> [hat ] 339
+[b][e ] -> [be ] 340
+[ar][e ] -> [are ] 341
+[tha][t] -> [that] 342
+[a][b] -> [ab] 343
+[an][ ] -> [an ] 344
+[d][o] -> [do] 345
+[? ][i ] -> [? i ] 346
+[l][o] -> [lo] 347
+[ou][t ] -> [out ] 348
+[a][l] -> [al] 349
+[on][ ] -> [on ] 350
+[b][e] -> [be] 351
+[p][l] -> [pl] 352
+[y][es] -> [yes] 353
+[m][y ] -> [my ] 354
+[w][h] -> [wh] 355
+[it]['s ] -> [it's ] 356
+[the][y ] -> [they ] 357
+[on]['t ] -> [on't ] 358
+[s][e] -> [se] 359
+[wa][s ] -> [was ] 360
+[for][ ] -> [for ] 361
+[ou][ld ] -> [ould ] 362
+[t][o] -> [to] 363
+[e][v] -> [ev] 364
+[m][e ] -> [me ] 365
+[d][on't ] -> [don't ] 366
+[t][. ] -> [t. ] 367
+[h][e ] -> [he ] 368
+[bu][t ] -> [but ] 369
+[li][ke ] -> [like ] 370
+[e][t ] -> [et ] 371
+[i'][m ] -> [i'm ] 372
+[c][a] -> [ca] 373
+[di][d ] -> [did ] 374
+[u][n] -> [un] 375
+[er][e ] -> [ere ] 376
+[r][e ] -> [re ] 377
+[s][o ] -> [so ] 378
+[m][a] -> [ma] 379
+[d][. ] -> [d. ] 380
+[l][a] -> [la] 381
+[n]['t ] -> [n't ] 382
+[i][c] -> [ic] 383
+[y][. ] -> [y. ] 384
+[th][in] -> [thin] 385
+[ab][out ] -> [about ] 386
+[that]['s ] -> [that's ] 387
+[e][l] -> [el] 388
+[r][e] -> [re] 389
+[you][r ] -> [your ] 390
+[b][a] -> [ba] 391
+[ch][ ] -> [ch ] 392
+[r][a] -> [ra] 393
+[s][om] -> [som] 394
+[on][e ] -> [one ] 395
+[th][ ] -> [th ] 396
+[ing ][to ] -> [ing to ] 397
+[s][a] -> [sa] 398
+[e][ll] -> [ell] 399
+[h][ow ] -> [how ] 400
+[w][e ] -> [we ] 401
+[l][e] -> [le] 402
+[p][e] -> [pe] 403
+[thin][k ] -> [think ] 404
+[yes][, ] -> [yes, ] 405
+[. w][hat ] -> [. what ] 406
+[w][an] -> [wan] 407
+[g][oo] -> [goo] 408
+[you]['] -> [you'] 409
+[gh][t ] -> [ght ] 410
+[g][o ] -> [go ] 411
+[m][e] -> [me] 412
+[m][o] -> [mo] 413
+[t][a] -> [ta] 414
+[u][r] -> [ur] 415
+[do ][you ] -> [do you ] 416
+[g][et ] -> [get ] 417
+[t ][to ] -> [t to ] 418
+[s][e ] -> [se ] 419
+[p][ ] -> [p ] 420
+[!][ ] -> [! ] 421
+[d][ay] -> [day] 422
+[a][t ] -> [at ] 423
+[er][. ] -> [er. ] 424
+[k][n] -> [kn] 425
+[. w][h] -> [. wh] 426
+[e][ar] -> [ear] 427
+[l][ ] -> [l ] 428
+[w][hat ] -> [what ] 429
+[us][t ] -> [ust ] 430
+[a][ll ] -> [all ] 431
+[ll][y ] -> [lly ] 432
+[wi][th ] -> [with ] 433
+[wi][ll ] -> [will ] 434
+[i'][ll ] -> [i'll ] 435
+[p][r] -> [pr] 436
+[did ][you ] -> [did you ] 437
+[go][ing to ] -> [going to ] 438
+[i][r] -> [ir] 439
+[ha][t] -> [hat] 440
+[et][t] -> [ett] 441
+[th][is ] -> [this ] 442
+[w][or] -> [wor] 443
+[no][t ] -> [not ] 444
+[j][ust ] -> [just ] 445
+[ell][, ] -> [ell, ] 446
+[l][y ] -> [ly ] 447
+[h][o] -> [ho] 448
+[p][o] -> [po] 449
+[w][ ] -> [w ] 450
+[ev][er] -> [ever] 451
+[goo][d ] -> [good ] 452
+[i][d] -> [id] 453
+[l][oo] -> [loo] 454
+[d][n't ] -> [dn't ] 455
+[c][an ] -> [can ] 456
+[s][u] -> [su] 457
+[w][ould ] -> [would ] 458
+[e. ][i ] -> [e. i ] 459
+[c][ar] -> [car] 460
+[s][t ] -> [st ] 461
+[h][i] -> [hi] 462
+[e][? ] -> [e? ] 463
+[c][k] -> [ck] 464
+[t][oo] -> [too] 465
+[ou][n] -> [oun] 466
+[o][b] -> [ob] 467
+[f][e] -> [fe] 468
+[f][a] -> [fa] 469
+[i][f ] -> [if ] 470
+[you'][re ] -> [you're ] 471
+[no][, ] -> [no, ] 472
+[t][er] -> [ter] 473
+[th][er ] -> [ther ] 474
+[e]['s ] -> [e's ] 475
+[g][ ] -> [g ] 476
+[rea][lly ] -> [really ] 477
+[pe][o] -> [peo] 478
+[peo][pl] -> [peopl] 479
+[som][e] -> [some] 480
+[l][e ] -> [le ] 481
+[c][an] -> [can] 482
+[o][k] -> [ok] 483
+[d][a] -> [da] 484
+[m][ay] -> [may] 485
+[v][i] -> [vi] 486
+[t][s ] -> [ts ] 487
+[th][er] -> [ther] 488
+[wan][t to ] -> [want to ] 489
+[c][ou] -> [cou] 490
+[m][on] -> [mon] 491
+[ing][. ] -> [ing. ] 492
+[us][e ] -> [use ] 493
+[ed ][to ] -> [ed to ] 494
+[p][p] -> [pp] 495
+[or][ ] -> [or ] 496
+[m][i] -> [mi] 497
+[th][ing ] -> [thing ] 498
+[th][ere ] -> [there ] 499
+[c][o] -> [co] 500
+[n][ic] -> [nic] 501
+[c][om] -> [com] 502
+[m][e. ] -> [me. ] 503
+[f][r] -> [fr] 504
+[sh][e ] -> [she ] 505
+[s][o] -> [so] 506
+[h][, ] -> [h, ] 507
+[se][e ] -> [see ] 508
+[may][be ] -> [maybe ] 509
+[. w][ell, ] -> [. well, ] 510
+[p][a] -> [pa] 511
+[sh][ould ] -> [should ] 512
+[the ][b] -> [the b] 513
+[f][ri] -> [fri] 514
+[ch][oo] -> [choo] 515
+[f][i] -> [fi] 516
+[es][. ] -> [es. ] 517
+[are ][you ] -> [are you ] 518
+[s][choo] -> [schoo] 519
+[y][? ] -> [y? ] 520
+[d][s ] -> [ds ] 521
+[g][a] -> [ga] 522
+[n][o ] -> [no ] 523
+[t][er ] -> [ter ] 524
+[it][. ] -> [it. ] 525
+[mon][e] -> [mone] 526
+[t][e] -> [te] 527
+[have ][to ] -> [have to ] 528
+[peopl][e ] -> [people ] 529
+[p][u] -> [pu] 530
+[w][e] -> [we] 531
+[s][. i ] -> [s. i ] 532
+[ou][r ] -> [our ] 533
+[g][i] -> [gi] 534
+[m][u] -> [mu] 535
+[, ][but ] -> [, but ] 536
+[r][u] -> [ru] 537
+[th][en ] -> [then ] 538
+[go ][to ] -> [go to ] 539
+[v][er ] -> [ver ] 540
+[day][. ] -> [day. ] 541
+[f][f] -> [ff] 542
+[0][ ] -> [0 ] 543
+[ok][ay] -> [okay] 544
+[c][k ] -> [ck ] 545
+[can]['t ] -> [can't ] 546
+[an][y ] -> [any ] 547
+[di][dn't ] -> [didn't ] 548
+[k][ing ] -> [king ] 549
+[ne][w ] -> [new ] 550
+[s][e. ] -> [se. ] 551
+[p][ar] -> [par] 552
+[in ][the ] -> [in the ] 553
+[kn][ow ] -> [know ] 554
+[mo][vi] -> [movi] 555
+[k][. ] -> [k. ] 556
+[v][er] -> [ver] 557
+[to][o ] -> [too ] 558
+[hat]['s ] -> [hat's ] 559
+[m][in] -> [min] 560
+[s][? ] -> [s? ] 561
+[en][t ] -> [ent ] 562
+[sh][ ] -> [sh ] 563
+[c][i] -> [ci] 564
+[cou][r] -> [cour] 565
+[kn][ow] -> [know] 566
+[be][ca] -> [beca] 567
+[beca][use ] -> [because ] 568
+[t][? ] -> [t? ] 569
+[m][or] -> [mor] 570
+[on][ly ] -> [only ] 571
+[lo][ve ] -> [love ] 572
+[h][er ] -> [her ] 573
+[c][t] -> [ct] 574
+[you][. ] -> [you. ] 575
+[p][e ] -> [pe ] 576
+[ma][ke ] -> [make ] 577
+[ti][on] -> [tion] 578
+[nic][e ] -> [nice ] 579
+[wh][y ] -> [why ] 580
+[s][i] -> [si] 581
+[o][h, ] -> [oh, ] 582
+[a ][lo] -> [a lo] 583
+[go][t ] -> [got ] 584
+[in][d ] -> [ind ] 585
+[of ][cour] -> [of cour] 586
+[fri][en] -> [frien] 587
+[i'][ve ] -> [i've ] 588
+[p][er] -> [per] 589
+[an][g] -> [ang] 590
+[ha][d ] -> [had ] 591
+[r][es] -> [res] 592
+[u][t] -> [ut] 593
+[n][ ] -> [n ] 594
+[f][un] -> [fun] 595
+[, ][and ] -> [, and ] 596
+[t][al] -> [tal] 597
+[o][ther ] -> [other ] 598
+[om][ ] -> [om ] 599
+[, ][too] -> [, too] 600
+[h][ou] -> [hou] 601
+[b][l] -> [bl] 602
+[hi][m ] -> [him ] 603
+[m][. ] -> [m. ] 604
+[g][rea] -> [grea] 605
+[ha][v] -> [hav] 606
+[ever][y ] -> [every ] 607
+[pr][ob] -> [prob] 608
+[be][en ] -> [been ] 609
+[st][ar] -> [star] 610
+[wh][en ] -> [when ] 611
+[ne][x] -> [nex] 612
+[ta][ke ] -> [take ] 613
+[or][r] -> [orr] 614
+[an][y] -> [any] 615
+[som][e ] -> [some ] 616
+[a ][good ] -> [a good ] 617
+[h][ear] -> [hear] 618
+[on ][the ] -> [on the ] 619
+[ha][pp] -> [happ] 620
+[u][p] -> [up] 621
+[i][d ] -> [id ] 622
+[da][y ] -> [day ] 623
+[c][e ] -> [ce ] 624
+[t][e ] -> [te ] 625
+[in ][a ] -> [in a ] 626
+[th][an] -> [than] 627
+[d][? ] -> [d? ] 628
+[th][ing] -> [thing] 629
+[it ][was ] -> [it was ] 630
+[loo][k ] -> [look ] 631
+[et][. ] -> [et. ] 632
+[have ][a ] -> [have a ] 633
+[gi][ve ] -> [give ] 634
+[ever][y] -> [every] 635
+[ri][gh] -> [righ] 636
+[i][r ] -> [ir ] 637
+[ne][ed ] -> [need ] 638
+[b][o] -> [bo] 639
+[fr][om ] -> [from ] 640
+[ou][ght ] -> [ought ] 641
+[h][is ] -> [his ] 642
+[ne][ver ] -> [never ] 643
+[e][x] -> [ex] 644
+[, ][i ] -> [, i ] 645
+[it][? ] -> [it? ] 646
+[mor][e ] -> [more ] 647
+[ha][s ] -> [has ] 648
+[on][g ] -> [ong ] 649
+[r][o] -> [ro] 650
+[g][u] -> [gu] 651
+[ow][. ] -> [ow. ] 652
+[mu][ch ] -> [much ] 653
+['][ll ] -> ['ll ] 654
+[d][y ] -> [dy ] 655
+[i][gh] -> [igh] 656
+[have ][you ] -> [have you ] 657
+[t ][of ] -> [t of ] 658
+[s][s] -> [ss] 659
+[do][es] -> [does] 660
+[t][. i ] -> [t. i ] 661
+[. wh][y ] -> [. why ] 662
+[c][le] -> [cle] 663
+[wa][y] -> [way] 664
+[do][es ] -> [does ] 665
+[nex][t ] -> [next ] 666
+[it][e ] -> [ite ] 667
+[the][y] -> [they] 668
+['][re ] -> ['re ] 669
+[ho][pe ] -> [hope ] 670
+[oun][ds ] -> [ounds ] 671
+[. w][hat's ] -> [. what's ] 672
+[j][ob] -> [job] 673
+[ti][me ] -> [time ] 674
+[y][ear] -> [year] 675
+[p][en] -> [pen] 676
+[schoo][l ] -> [school ] 677
+[l][dn't ] -> [ldn't ] 678
+[i][m] -> [im] 679
+[st][a] -> [sta] 680
+[l][et] -> [let] 681
+[let]['s ] -> [let's ] 682
+[ha][r] -> [har] 683
+[st][o] -> [sto] 684
+[h][e's ] -> [he's ] 685
+[? ][i'm ] -> [? i'm ] 686
+[k][s ] -> [ks ] 687
+[prob][le] -> [proble] 688
+[ri][ght ] -> [right ] 689
+[ver][y ] -> [very ] 690
+[b][ett] -> [bett] 691
+[s][n't ] -> [sn't ] 692
+[w][ere ] -> [were ] 693
+[i][l] -> [il] 694
+[? ][no, ] -> [? no, ] 695
+[te][ll ] -> [tell ] 696
+[h][om] -> [hom] 697
+[the][m ] -> [them ] 698
+[ev][er ] -> [ever ] 699
+[to ][the ] -> [to the ] 700
+[an][d] -> [and] 701
+[el][ ] -> [el ] 702
+[es][t ] -> [est ] 703
+[it][t] -> [itt] 704
+[t][w] -> [tw] 705
+[pu][t ] -> [put ] 706
+[b][i] -> [bi] 707
+[schoo][l] -> [school] 708
+[y][, ] -> [y, ] 709
+[. ][you ] -> [. you ] 710
+[we][e] -> [wee] 711
+[t][om] -> [tom] 712
+[sh][o] -> [sho] 713
+[par][t] -> [part] 714
+[t][v] -> [tv] 715
+[s ][are ] -> [s are ] 716
+[v][o] -> [vo] 717
+[the][ir ] -> [their ] 718
+[a][s] -> [as] 719
+[a lo][t of ] -> [a lot of ] 720
+[d][e] -> [de] 721
+[does][n't ] -> [doesn't ] 722
+[o][f] -> [of] 723
+[ou][gh] -> [ough] 724
+[a][f] -> [af] 725
+[. ][that's ] -> [. that's ] 726
+[h][er] -> [her] 727
+[that][? ] -> [that? ] 728
+[t][ch ] -> [tch ] 729
+[a][s ] -> [as ] 730
+[r][y ] -> [ry ] 731
+[ne][ed to ] -> [need to ] 732
+[. w][e ] -> [. we ] 733
+[sa][id ] -> [said ] 734
+[ch][e] -> [che] 735
+[c][u] -> [cu] 736
+[en][t] -> [ent] 737
+[the ][w] -> [the w] 738
+[d][. i ] -> [d. i ] 739
+[s][ay] -> [say] 740
+[i][ll ] -> [ill ] 741
+[movi][e ] -> [movie ] 742
+[some][thing ] -> [something ] 743
+[they]['re ] -> [they're ] 744
+[f][oo] -> [foo] 745
+[ra][in] -> [rain] 746
+[e][, ] -> [e, ] 747
+[wan][t ] -> [want ] 748
+[on][. ] -> [on. ] 749
+[f][u] -> [fu] 750
+[s][ounds ] -> [sounds ] 751
+[u][s ] -> [us ] 752
+[f][ir] -> [fir] 753
+[wh][o ] -> [who ] 754
+[ne][w] -> [new] 755
+[bu][y ] -> [buy ] 756
+[is ][a ] -> [is a ] 757
+[su][re ] -> [sure ] 758
+[u][p ] -> [up ] 759
+[mone][y. ] -> [money. ] 760
+[r][oo] -> [roo] 761
+[pl][a] -> [pla] 762
+[n][a] -> [na] 763
+[l][u] -> [lu] 764
+[ou][t] -> [out] 765
+[the ][s] -> [the s] 766
+[c][lo] -> [clo] 767
+[ea][ch ] -> [each ] 768
+[be][li] -> [beli] 769
+[will ][be ] -> [will be ] 770
+[al][ ] -> [al ] 771
+[w][ell, ] -> [well, ] 772
+[q][u] -> [qu] 773
+[, too][. ] -> [, too. ] 774
+[c][e] -> [ce] 775
+[s][, ] -> [s, ] 776
+[ev][en ] -> [even ] 777
+[c][e. ] -> [ce. ] 778
+[ea][t ] -> [eat ] 779
+[pr][ett] -> [prett] 780
+[. ][it's ] -> [. it's ] 781
+[are you ][going to ] -> [are you going to ] 782
+[y][ea] -> [yea] 783
+[al][way] -> [alway] 784
+[alway][s ] -> [always ] 785
+[mo][st ] -> [most ] 786
+[li][k] -> [lik] 787
+[min][ut] -> [minut] 788
+[like ][to ] -> [like to ] 789
+[? i ][think ] -> [? i think ] 790
+[at ][the ] -> [at the ] 791
+[sa][y ] -> [say ] 792
+[t][ur] -> [tur] 793
+[on][g] -> [ong] 794
+[o][ff] -> [off] 795
+[oun][d ] -> [ound ] 796
+[! ][i ] -> [! i ] 797
+[of cour][se ] -> [of course ] 798
+[all ][the ] -> [all the ] 799
+[la][t] -> [lat] 800
+[t][t] -> [tt] 801
+[en]['t ] -> [en't ] 802
+[. i ][think ] -> [. i think ] 803
+[ou][ldn't ] -> [ouldn't ] 804
+[of ][the ] -> [of the ] 805
+[me][an] -> [mean] 806
+[re][e ] -> [ree ] 807
+[ar][ ] -> [ar ] 808
+[e][ve ] -> [eve ] 809
+[g][ir] -> [gir] 810
+[a ][l] -> [a l] 811
+[es][e ] -> [ese ] 812
+[grea][t ] -> [great ] 813
+[on][e. ] -> [one. ] 814
+[m][b] -> [mb] 815
+[ch][. ] -> [ch. ] 816
+[that][. ] -> [that. ] 817
+[th][an ] -> [than ] 818
+[. ][it ] -> [. it ] 819
+[of][f ] -> [off ] 820
+[com][e ] -> [come ] 821
+[t][, ] -> [t, ] 822
+[y][. i ] -> [y. i ] 823
+[beli][eve ] -> [believe ] 824
+[b][r] -> [br] 825
+[y ][for ] -> [y for ] 826
+[en][t. ] -> [ent. ] 827
+[h][ur] -> [hur] 828
+[en][ts ] -> [ents ] 829
+[m][ar] -> [mar] 830
+[tw][o ] -> [two ] 831
+[some][one ] -> [someone ] 832
+[g][r] -> [gr] 833
+[ow][n] -> [own] 834
+[f][in] -> [fin] 835
+[than][k ] -> [thank ] 836
+[to][day. ] -> [today. ] 837
+[et][s ] -> [ets ] 838
+[es][. i ] -> [es. i ] 839
+[rea][ll] -> [reall] 840
+[hear][d ] -> [heard ] 841
+[. ][that ] -> [. that ] 842
+[s][p] -> [sp] 843
+[ing][? ] -> [ing? ] 844
+[tom][orr] -> [tomorr] 845
+[th][ing. ] -> [thing. ] 846
+[p][h] -> [ph] 847
+[okay][, ] -> [okay, ] 848
+[d][r] -> [dr] 849
+[w][r] -> [wr] 850
+[bett][er ] -> [better ] 851
+[st][ill ] -> [still ] 852
+[itt][le ] -> [ittle ] 853
+[i'm ][going to ] -> [i'm going to ] 854
+[st][or] -> [stor] 855
+[to][ld ] -> [told ] 856
+[ba][ck ] -> [back ] 857
+[v][or] -> [vor] 858
+[the ][ba] -> [the ba] 859
+[you ][should ] -> [you should ] 860
+[0][0 ] -> [00 ] 861
+[o][ld ] -> [old ] 862
+[l][ea] -> [lea] 863
+[ur][an] -> [uran] 864
+[es][s ] -> [ess ] 865
+[d][ri] -> [dri] 866
+[yes, ][i ] -> [yes, i ] 867
+[wee][k] -> [week] 868
+[w][hat] -> [what] 869
+[di][ff] -> [diff] 870
+[diff][er] -> [differ] 871
+[tal][k ] -> [talk ] 872
+[mi][ght ] -> [might ] 873
+[k][e] -> [ke] 874
+[l][et ] -> [let ] 875
+[g][ar] -> [gar] 876
+[m][any ] -> [many ] 877
+[res][ta] -> [resta] 878
+[resta][uran] -> [restauran] 879
+[j][o] -> [jo] 880
+[t][ed ] -> [ted ] 881
+[. wh][ere ] -> [. where ] 882
+[wi][sh ] -> [wish ] 883
+[yea][h, ] -> [yeah, ] 884
+[righ][t. ] -> [right. ] 885
+[v][it] -> [vit] 886
+[pl][an] -> [plan] 887
+[happ][en] -> [happen] 888
+[okay][. ] -> [okay. ] 889
+[bu][s] -> [bus] 890
+[sh][e's ] -> [she's ] 891
+[? i ][don't ] -> [? i don't ] 892
+[d][er ] -> [der ] 893
+[proble][m] -> [problem] 894
+[c][it] -> [cit] 895
+[h][el] -> [hel] 896
+[id][ea] -> [idea] 897
+[frien][d] -> [friend] 898
+[c][ra] -> [cra] 899
+[do][g] -> [dog] 900
+["][ ] -> [" ] 901
+[tv][ ] -> [tv ] 902
+[st][u] -> [stu] 903
+[t][ra] -> [tra] 904
+[b][rea] -> [brea] 905
+[prett][y ] -> [pretty ] 906
+[a][lly ] -> [ally ] 907
+[n][ow. ] -> [now. ] 908
+[there ][are ] -> [there are ] 909
+[hav][en't ] -> [haven't ] 910
+[s][id] -> [sid] 911
+[af][ter ] -> [after ] 912
+[yes, ][but ] -> [yes, but ] 913
+[n][i] -> [ni] 914
+[you ][can ] -> [you can ] 915
+[ll][. ] -> [ll. ] 916
+[fe][el ] -> [feel ] 917
+[ea][ther ] -> [eather ] 918
+[ab][l] -> [abl] 919
+[ti][me. ] -> [time. ] 920
+[ch][ang] -> [chang] 921
+[po][s] -> [pos] 922
+[s][orr] -> [sorr] 923
+[ti][on ] -> [tion ] 924
+[yes][. ] -> [yes. ] 925
+[f][ind ] -> [find ] 926
+[w][hat's ] -> [what's ] 927
+[ough][ ] -> [ough ] 928
+[. wh][o ] -> [. who ] 929
+[b][y ] -> [by ] 930
+[g][la] -> [gla] 931
+[wa][it] -> [wait] 932
+[hat][e ] -> [hate ] 933
+[. i ][don't ] -> [. i don't ] 934
+[wa][l] -> [wal] 935
+[a][g] -> [ag] 936
+[a][d] -> [ad] 937
+[p][i] -> [pi] 938
+[s][al] -> [sal] 939
+[w][on't ] -> [won't ] 940
+[ci][gar] -> [cigar] 941
+[cigar][ett] -> [cigarett] 942
+[k][es ] -> [kes ] 943
+[bi][g ] -> [big ] 944
+[a][ct] -> [act] 945
+[would ][be ] -> [would be ] 946
+[sa][me ] -> [same ] 947
+[week][en] -> [weeken] 948
+[m][e. i ] -> [me. i ] 949
+[h][ea] -> [hea] 950
+[c][ould ] -> [could ] 951
+[ca][ll ] -> [call ] 952
+[if ][you ] -> [if you ] 953
+[do][? ] -> [do? ] 954
+[en][. ] -> [en. ] 955
+[ing ][a ] -> [ing a ] 956
+[wh][ere ] -> [where ] 957
+['][t. ] -> ['t. ] 958
+[a ][new ] -> [a new ] 959
+[k][ind ] -> [kind ] 960
+[be][for] -> [befor] 961
+[gir][l] -> [girl] 962
+[rea][dy ] -> [ready ] 963
+[s][mo] -> [smo] 964
+[b][ought ] -> [bought ] 965
+[d][e ] -> [de ] 966
+[th][ought ] -> [thought ] 967
+[ing][. i ] -> [ing. i ] 968
+[e]['ll ] -> [e'll ] 969
+[ea][s] -> [eas] 970
+[you'][ll ] -> [you'll ] 971
+[do][ct] -> [doct] 972
+[en][jo] -> [enjo] 973
+[to][day] -> [today] 974
+[c][la] -> [cla] 975
+[w][in] -> [win] 976
+[ow][n ] -> [own ] 977
+[d][ea] -> [dea] 978
+[d][er] -> [der] 979
+[cle][an] -> [clean] 980
+[t][r] -> [tr] 981
+[loo][k] -> [look] 982
+[ga][in] -> [gain] 983
+[th][o] -> [tho] 984
+[en][t to ] -> [ent to ] 985
+[of cour][se. ] -> [of course. ] 986
+[e][p ] -> [ep ] 987
+[li][st] -> [list] 988
+[w][on] -> [won] 989
+[c][or] -> [cor] 990
+[n][igh] -> [nigh] 991
+[me][? ] -> [me? ] 992
+[an][other ] -> [another ] 993
+[y ][to ] -> [y to ] 994
+[vi][s] -> [vis] 995
+[wor][k] -> [work] 996
+[part][y ] -> [party ] 997
+[i ][don't ] -> [i don't ] 998
+[v][es ] -> [ves ] 999
+[d][in] -> [din] 1000
+[foo][d ] -> [food ] 1001
+[did ][he ] -> [did he ] 1002
+[lo][ts ] -> [lots ] 1003
+[lots ][of ] -> [lots of ] 1004
+[ea][t] -> [eat] 1005
+[h][ere ] -> [here ] 1006
+[w][om] -> [wom] 1007
+[p][or] -> [por] 1008
+[se][l] -> [sel] 1009
+[i've ][been ] -> [i've been ] 1010
+[n][ow] -> [now] 1011
+[do][ing ] -> [doing ] 1012
+[it's ][not ] -> [it's not ] 1013
+[ther][e. ] -> [there. ] 1014
+[un][ti] -> [unti] 1015
+[unti][l ] -> [until ] 1016
+[som][et] -> [somet] 1017
+[g][ets ] -> [gets ] 1018
+[l][d. ] -> [ld. ] 1019
+[c][oo] -> [coo] 1020
+[t][ru] -> [tru] 1021
+[n][ow ] -> [now ] 1022
+[a ][nice ] -> [a nice ] 1023
+[i][sn't ] -> [isn't ] 1024
+[e][m] -> [em] 1025
+[e][? i ] -> [e? i ] 1026
+[this ][weeken] -> [this weeken] 1027
+[sounds ][like ] -> [sounds like ] 1028
+[fi][ve ] -> [five ] 1029
+[ther][e's ] -> [there's ] 1030
+[kind ][of ] -> [kind of ] 1031
+[? ][no] -> [? no] 1032
+[how ][much ] -> [how much ] 1033
+[tho][se ] -> [those ] 1034
+[p][ic] -> [pic] 1035
+[my ][fa] -> [my fa] 1036
+[i ][was ] -> [i was ] 1037
+[d][, ] -> [d, ] 1038
+[pl][ay] -> [play] 1039
+[t][ea] -> [tea] 1040
+[har][d ] -> [hard ] 1041
+[i'm ][not ] -> [i'm not ] 1042
+[la][st ] -> [last ] 1043
+[o][h] -> [oh] 1044
+[a ][s] -> [a s] 1045
+[din][n] -> [dinn] 1046
+[mi][l] -> [mil] 1047
+[. ][maybe ] -> [. maybe ] 1048
+[. ][the ] -> [. the ] 1049
+[sto][p ] -> [stop ] 1050
+[gu][ess ] -> [guess ] 1051
+[you ][don't ] -> [you don't ] 1052
+[x][ ] -> [x ] 1053
+[da][te ] -> [date ] 1054
+[d][own] -> [down] 1055
+[er][s ] -> [ers ] 1056
+[every][one ] -> [everyone ] 1057
+[r][un] -> [run] 1058
+[how ][about ] -> [how about ] 1059
+[sh][ouldn't ] -> [shouldn't ] 1060
+[o][ver ] -> [over ] 1061
+[th][er. ] -> [ther. ] 1062
+[reall][y? ] -> [really? ] 1063
+[going to ][be ] -> [going to be ] 1064
+[a][c] -> [ac] 1065
+[f][e ] -> [fe ] 1066
+[ca][ll] -> [call] 1067
+[t][ed to ] -> [ted to ] 1068
+[se][en ] -> [seen ] 1069
+[yes][. i ] -> [yes. i ] 1070
+[i][s] -> [is] 1071
+[a l][ittle ] -> [a little ] 1072
+[hear][ ] -> [hear ] 1073
+[s][s ] -> [ss ] 1074
+[you][. i ] -> [you. i ] 1075
+[a][gain] -> [again] 1076
+[th][ese ] -> [these ] 1077
+[do][ll] -> [doll] 1078
+[pl][e ] -> [ple ] 1079
+[t][y] -> [ty] 1080
+[w][ent to ] -> [went to ] 1081
+[l][ong ] -> [long ] 1082
+[that ][was ] -> [that was ] 1083
+[wa][tch ] -> [watch ] 1084
+[t][ch] -> [tch] 1085
+[so][, ] -> [so, ] 1086
+[p][er ] -> [per ] 1087
+[m][an] -> [man] 1088
+[s][ur] -> [sur] 1089
+[. wh][en ] -> [. when ] 1090
+[what][? ] -> [what? ] 1091
+[me ][to ] -> [me to ] 1092
+[. what ][do you ] -> [. what do you ] 1093
+[car][ ] -> [car ] 1094
+[for ][a ] -> [for a ] 1095
+[le][f] -> [lef] 1096
+[b][or] -> [bor] 1097
+[s][. what ] -> [s. what ] 1098
+[hou][se. ] -> [house. ] 1099
+[el][e] -> [ele] 1100
+[e. ][but ] -> [e. but ] 1101
+[p][ri] -> [pri] 1102
+[u][mb] -> [umb] 1103
+[the ][po] -> [the po] 1104
+[k][id] -> [kid] 1105
+[bu][r] -> [bur] 1106
+[goo][d. ] -> [good. ] 1107
+[so][l] -> [sol] 1108
+[es ][are ] -> [es are ] 1109
+[ho][t ] -> [hot ] 1110
+[wa][sn't ] -> [wasn't ] 1111
+[wa][it ] -> [wait ] 1112
+[in][ter] -> [inter] 1113
+[know ][what ] -> [know what ] 1114
+[the ][same ] -> [the same ] 1115
+[it][. i ] -> [it. i ] 1116
+[me][ll ] -> [mell ] 1117
+[the w][eather ] -> [the weather ] 1118
+[we ][can ] -> [we can ] 1119
+[wan][ted to ] -> [wanted to ] 1120
+[see ][you ] -> [see you ] 1121
+[s][on ] -> [son ] 1122
+[wh][i] -> [whi] 1123
+[e][i] -> [ei] 1124
+[yes][ter] -> [yester] 1125
+[. ][did you ] -> [. did you ] 1126
+[s][er] -> [ser] 1127
+[a][m ] -> [am ] 1128
+[wor][k ] -> [work ] 1129
+[e][d. ] -> [ed. ] 1130
+[e. ][what ] -> [e. what ] 1131
+[do ][that? ] -> [do that? ] 1132
+[m][us] -> [mus] 1133
+[ba][ll ] -> [ball ] 1134
+[no][thing ] -> [nothing ] 1135
+[in][vit] -> [invit] 1136
+[bo][dy ] -> [body ] 1137
+[a][tion] -> [ation] 1138
+[ga][ve ] -> [gave ] 1139
+[me][an ] -> [mean ] 1140
+[i][l ] -> [il ] 1141
+[j][ok] -> [jok] 1142
+[in][to the ] -> [into the ] 1143
+[you ][have to ] -> [you have to ] 1144
+[sa][ve ] -> [save ] 1145
+[loo][king ] -> [looking ] 1146
+[s][un] -> [sun] 1147
+[b][la] -> [bla] 1148
+[e][g] -> [eg] 1149
+[t][ter] -> [tter] 1150
+[st][re] -> [stre] 1151
+[n][umb] -> [numb] 1152
+[m][an ] -> [man ] 1153
+[er][s. ] -> [ers. ] 1154
+[doct][or] -> [doctor] 1155
+[ti][ck] -> [tick] 1156
+[l][y] -> [ly] 1157
+[out][sid] -> [outsid] 1158
+[it ][rain] -> [it rain] 1159
+[c][on] -> [con] 1160
+[l][es] -> [les] 1161
+[per][fe] -> [perfe] 1162
+[s][mell ] -> [smell ] 1163
+[abl][e. ] -> [able. ] 1164
+[you're ][right. ] -> [you're right. ] 1165
+[t][ri] -> [tri] 1166
+[an][t] -> [ant] 1167
+[is ][so ] -> [is so ] 1168
+[goo][d] -> [good] 1169
+[h][un] -> [hun] 1170
+[c][ri] -> [cri] 1171
+[ong ][with ] -> [ong with ] 1172
+[any][thing ] -> [anything ] 1173
+[hom][e ] -> [home ] 1174
+[v][ed ] -> [ved ] 1175
+[co][st] -> [cost] 1176
+[. well, ][i ] -> [. well, i ] 1177
+[d][ra] -> [dra] 1178
+[sa][w ] -> [saw ] 1179
+[th][r] -> [thr] 1180
+[mus][ic] -> [music] 1181
+[differ][ent ] -> [different ] 1182
+[th][ree ] -> [three ] 1183
+[en][g] -> [eng] 1184
+[gla][d ] -> [glad ] 1185
+[ett][ing ] -> [etting ] 1186
+[fa][st] -> [fast] 1187
+[m][ust ] -> [must ] 1188
+[,][0] -> [,0] 1189
+[. ][they ] -> [. they ] 1190
+[mone][y ] -> [money ] 1191
+[m][om] -> [mom] 1192
+[. ][he ] -> [. he ] 1193
+[. ][and ] -> [. and ] 1194
+[$][1] -> [$1] 1195
+[do ][they ] -> [do they ] 1196
+[th][roo] -> [throo] 1197
+[? ][yes, ] -> [? yes, ] 1198
+[. ][but ] -> [. but ] 1199
+[on ][a ] -> [on a ] 1200
+[wor][ld ] -> [world ] 1201
+[let ][me ] -> [let me ] 1202
+[rea][d ] -> [read ] 1203
+[need ][a ] -> [need a ] 1204
+[no][se ] -> [nose ] 1205
+[a][t] -> [at] 1206
+[wa][ter ] -> [water ] 1207
+[c][tion] -> [ction] 1208
+[stu][d] -> [stud] 1209
+[grea][t] -> [great] 1210
+[you][? ] -> [you? ] 1211
+[than][k] -> [thank] 1212
+[ba][d. ] -> [bad. ] 1213
+[u][g] -> [ug] 1214
+[pe][ci] -> [peci] 1215
+[somet][im] -> [sometim] 1216
+[s. ][that's ] -> [s. that's ] 1217
+[i][s. ] -> [is. ] 1218
+[w][ar] -> [war] 1219
+[is ][it ] -> [is it ] 1220
+[wa][y ] -> [way ] 1221
+[thing][s ] -> [things ] 1222
+[? ][the ] -> [? the ] 1223
+[say][s ] -> [says ] 1224
+[pl][ea] -> [plea] 1225
+[h][an] -> [han] 1226
+[see ][a ] -> [see a ] 1227
+[ed ][the ] -> [ed the ] 1228
+[ou][t. ] -> [out. ] 1229
+[tell ][me ] -> [tell me ] 1230
+[fir][st ] -> [first ] 1231
+[es][? ] -> [es? ] 1232
+[wr][ong with ] -> [wrong with ] 1233
+[al][ready ] -> [already ] 1234
+[too][k ] -> [took ] 1235
+[ou][s. ] -> [ous. ] 1236
+[did you ][get ] -> [did you get ] 1237
+[in ][your ] -> [in your ] 1238
+[pa][in] -> [pain] 1239
+[vor][ite ] -> [vorite ] 1240
+[the b][est ] -> [the best ] 1241
+[l][in] -> [lin] 1242
+[ke][ep ] -> [keep ] 1243
+[clo][se ] -> [close ] 1244
+[en][d ] -> [end ] 1245
+[a ][great ] -> [a great ] 1246
+[l][d] -> [ld] 1247
+[eng][li] -> [engli] 1248
+[give ][you ] -> [give you ] 1249
+[di][d] -> [did] 1250
+[pp][ing ] -> [pping ] 1251
+[st][ea] -> [stea] 1252
+[ca][tch ] -> [catch ] 1253
+[off ][the ] -> [off the ] 1254
+[es][id] -> [esid] 1255
+[g][etting ] -> [getting ] 1256
+[sh][ow] -> [show] 1257
+[l][ong] -> [long] 1258
+[f][fe] -> [ffe] 1259
+[z][z] -> [zz] 1260
+[e][p] -> [ep] 1261
+[di][r] -> [dir] 1262
+[in][k] -> [ink] 1263
+[befor][e ] -> [before ] 1264
+[hou][r] -> [hour] 1265
+[can't ][believe ] -> [can't believe ] 1266
+[wi][th] -> [with] 1267
+[i][ll] -> [ill] 1268
+[l][f ] -> [lf ] 1269
+[st][r] -> [str] 1270
+[her][e. ] -> [here. ] 1271
+[smo][k] -> [smok] 1272
+[sel][f] -> [self] 1273
+[. ][do you ] -> [. do you ] 1274
+[star][ted ] -> [started ] 1275
+[lu][ck] -> [luck] 1276
+[ra][in ] -> [rain ] 1277
+[every ][day. ] -> [every day. ] 1278
+[me ][too] -> [me too] 1279
+[it's ][too ] -> [it's too ] 1280
+[enjo][y ] -> [enjoy ] 1281
+[it ][to ] -> [it to ] 1282
+[loo][ks ] -> [looks ] 1283
+[s][m] -> [sm] 1284
+[sm][ell] -> [smell] 1285
+[n][ed ] -> [ned ] 1286
+[it ][will ] -> [it will ] 1287
+[l][y. ] -> [ly. ] 1288
+[, ][so ] -> [, so ] 1289
+[p][pos] -> [ppos] 1290
+[li][ce ] -> [lice ] 1291
+[th][en. ] -> [then. ] 1292
+[s][w] -> [sw] 1293
+[talk ][to ] -> [talk to ] 1294
+[k][ing to ] -> [king to ] 1295
+[some][thing] -> [something] 1296
+[is ][there ] -> [is there ] 1297
+[? no, ][i ] -> [? no, i ] 1298
+[d][es] -> [des] 1299
+[prob][ab] -> [probab] 1300
+[probab][ly ] -> [probably ] 1301
+[u][ti] -> [uti] 1302
+[fu][l ] -> [ful ] 1303
+[in][to ] -> [into ] 1304
+[you'][ve ] -> [you've ] 1305
+[mi][ss] -> [miss] 1306
+[s][ic] -> [sic] 1307
+[had ][a ] -> [had a ] 1308
+[pr][om] -> [prom] 1309
+[e][d] -> [ed] 1310
+[is ][that ] -> [is that ] 1311
+[nic][e. ] -> [nice. ] 1312
+[? ][they ] -> [? they ] 1313
+[the ][ma] -> [the ma] 1314
+[that ][you ] -> [that you ] 1315
+[hi][gh] -> [high] 1316
+[su][per] -> [super] 1317
+[fun][n] -> [funn] 1318
+[wh][o] -> [who] 1319
+[who][le ] -> [whole ] 1320
+[wa][tch] -> [watch] 1321
+[hel][p ] -> [help ] 1322
+[out ][of ] -> [out of ] 1323
+[ba][d ] -> [bad ] 1324
+[ma][de ] -> [made ] 1325
+[list][en ] -> [listen ] 1326
+[ga][me. ] -> [game. ] 1327
+[that's ][what ] -> [that's what ] 1328
+[n]['t. ] -> [n't. ] 1329
+[lo][st ] -> [lost ] 1330
+[frien][d ] -> [friend ] 1331
+[? i don't ][know] -> [? i don't know] 1332
+[sur][e. ] -> [sure. ] 1333
+[the][m] -> [them] 1334
+[y][? i ] -> [y? i ] 1335
+[go to ][the ] -> [go to the ] 1336
+[. ][so ] -> [. so ] 1337
+[how ][many ] -> [how many ] 1338
+[t][ry ] -> [try ] 1339
+[d][on] -> [don] 1340
+[in ][my ] -> [in my ] 1341
+[year][s ] -> [years ] 1342
+[people ][are ] -> [people are ] 1343
+[v][e. ] -> [ve. ] 1344
+[tur][n ] -> [turn ] 1345
+[co][ffe] -> [coffe] 1346
+[�][�] -> [\u0097] 1347
+[s][! ] -> [s! ] 1348
+[he ][said ] -> [he said ] 1349
+[wor][k. ] -> [work. ] 1350
+[s][le] -> [sle] 1351
+[ing ][the ] -> [ing the ] 1352
+[d][s. ] -> [ds. ] 1353
+[ll][ow] -> [llow] 1354
+[or][ang] -> [orang] 1355
+[bl][u] -> [blu] 1356
+[ch][ea] -> [chea] 1357
+[b][oo] -> [boo] 1358
+[be][t ] -> [bet ] 1359
+[2][0 ] -> [20 ] 1360
+[he ][was ] -> [he was ] 1361
+[new][s ] -> [news ] 1362
+[g][ra] -> [gra] 1363
+[po][ck] -> [pock] 1364
+[ma][kes ] -> [makes ] 1365
+[f][la] -> [fla] 1366
+[run][ ] -> [run ] 1367
+[tra][v] -> [trav] 1368
+[rea][l ] -> [real ] 1369
+[pr][esid] -> [presid] 1370
+[as][k] -> [ask] 1371
+[c][ ] -> [c ] 1372
+[right ][now. ] -> [right now. ] 1373
+[thank ][you. ] -> [thank you. ] 1374
+[how ][do you ] -> [how do you ] 1375
+[. ][my ] -> [. my ] 1376
+[ma][y ] -> [may ] 1377
+[m][m] -> [mm] 1378
+[es][peci] -> [especi] 1379
+[especi][ally ] -> [especially ] 1380
+[yes, ][it ] -> [yes, it ] 1381
+[sometim][es ] -> [sometimes ] 1382
+[i'][d ] -> [i'd ] 1383
+[w][ouldn't ] -> [wouldn't ] 1384
+[fe][el] -> [feel] 1385
+[su][ch ] -> [such ] 1386
+[and ][i ] -> [and i ] 1387
+[that][? i ] -> [that? i ] 1388
+[wa][y. ] -> [way. ] 1389
+[like ][the ] -> [like the ] 1390
+[cle][an ] -> [clean ] 1391
+[st][an] -> [stan] 1392
+[sta][y ] -> [stay ] 1393
+[want to ][go ] -> [want to go ] 1394
+[su][ppos] -> [suppos] 1395
+[suppos][ed to ] -> [supposed to ] 1396
+[to ][be ] -> [to be ] 1397
+[se][? ] -> [se? ] 1398
+[tomorr][ow ] -> [tomorrow ] 1399
+[on][e? ] -> [one? ] 1400
+[rea][son ] -> [reason ] 1401
+[? i ][was ] -> [? i was ] 1402
+[v][a] -> [va] 1403
+[tal][king to ] -> [talking to ] 1404
+[ti][m] -> [tim] 1405
+[ea][uti] -> [eauti] 1406
+['][ve ] -> ['ve ] 1407
+[t][ell] -> [tell] 1408
+[would ][you ] -> [would you ] 1409
+[yester][day] -> [yesterday] 1410
+[st][om] -> [stom] 1411
+[y][et. ] -> [yet. ] 1412
+[me][di] -> [medi] 1413
+[s][? i ] -> [s? i ] 1414
+[got ][a ] -> [got a ] 1415
+[i][ou] -> [iou] 1416
+[it][? i ] -> [it? i ] 1417
+[did ][they ] -> [did they ] 1418
+[cou][ple ] -> [couple ] 1419
+[go][. ] -> [go. ] 1420
+[f][ound ] -> [found ] 1421
+[co][st ] -> [cost ] 1422
+[how ][to ] -> [how to ] 1423
+[le][ar] -> [lear] 1424
+[d][en] -> [den] 1425
+[your ][fa] -> [your fa] 1426
+[u][gh] -> [ugh] 1427
+[di][d. ] -> [did. ] 1428
+[h][on] -> [hon] 1429
+[movi][es ] -> [movies ] 1430
+[cou][ldn't ] -> [couldn't ] 1431
+[s][k] -> [sk] 1432
+[, but ][i ] -> [, but i ] 1433
+[c][id] -> [cid] 1434
+[si][g] -> [sig] 1435
+[. w][e] -> [. we] 1436
+[love ][to ] -> [love to ] 1437
+[. ][i'm ] -> [. i'm ] 1438
+[v][en ] -> [ven ] 1439
+[star][t ] -> [start ] 1440
+[rea][d] -> [read] 1441
+[go][ing ] -> [going ] 1442
+[c][are ] -> [care ] 1443
+[we ][should ] -> [we should ] 1444
+[peopl][e. ] -> [people. ] 1445
+[al][most ] -> [almost ] 1446
+[lef][t ] -> [left ] 1447
+[ter][ri] -> [terri] 1448
+[t][s. ] -> [ts. ] 1449
+[t][ter ] -> [tter ] 1450
+[look ][at ] -> [look at ] 1451
+[if ][i ] -> [if i ] 1452
+[v][e] -> [ve] 1453
+[ear][ ] -> [ear ] 1454
+[hel][p] -> [help] 1455
+[the ba][throo] -> [the bathroo] 1456
+[too ][much ] -> [too much ] 1457
+[f][e. ] -> [fe. ] 1458
+[.][" ] -> [." ] 1459
+[no ][one ] -> [no one ] 1460
+[job][ ] -> [job ] 1461
+[s ][and ] -> [s and ] 1462
+[wom][an ] -> [woman ] 1463
+[you'][d ] -> [you'd ] 1464
+[t][ing ] -> [ting ] 1465
+[minut][es. ] -> [minutes. ] 1466
+[t][each ] -> [teach ] 1467
+[us][ing ] -> [using ] 1468
+[c][ha] -> [cha] 1469
+[co][ll] -> [coll] 1470
+[tea][ch] -> [teach] 1471
+[ar][ound ] -> [around ] 1472
+[sp][it] -> [spit] 1473
+[h][oo] -> [hoo] 1474
+[we]['ll ] -> [we'll ] 1475
+[ha][m] -> [ham] 1476
+[bur][g] -> [burg] 1477
+[f][our ] -> [four ] 1478
+[trav][el ] -> [travel ] 1479
+[de][li] -> [deli] 1480
+[vo][te ] -> [vote ] 1481
+[you][r] -> [your] 1482
+[ther][e? ] -> [there? ] 1483
+[u][ally ] -> [ually ] 1484
+[el][y ] -> [ely ] 1485
+[d][le ] -> [dle ] 1486
+[after ][it rain] -> [after it rain] 1487
+[don't ][you ] -> [don't you ] 1488
+[. i ][hope ] -> [. i hope ] 1489
+[un][der] -> [under] 1490
+[perfe][c] -> [perfec] 1491
+[p][re] -> [pre] 1492
+[to ][make ] -> [to make ] 1493
+[es ][to ] -> [es to ] 1494
+[t][. what ] -> [t. what ] 1495
+[call][ed ] -> [called ] 1496
+[bus][y ] -> [busy ] 1497
+[you ][have ] -> [you have ] 1498
+[y][et] -> [yet] 1499
+[e. ][the ] -> [e. the ] 1500
+[wee][k. ] -> [week. ] 1501
+[it's ][the ] -> [it's the ] 1502
+[any][thing. ] -> [anything. ] 1503
+[t][y ] -> [ty ] 1504
+[doll][ar] -> [dollar] 1505
+[do][? i ] -> [do? i ] 1506
+[e. i ][think ] -> [e. i think ] 1507
+[on][ce ] -> [once ] 1508
+[wh][il] -> [whil] 1509
+[to ][my ] -> [to my ] 1510
+[min][e ] -> [mine ] 1511
+[hou][se ] -> [house ] 1512
+[ev][er. ] -> [ever. ] 1513
+[hur][t ] -> [hurt ] 1514
+[bo][th ] -> [both ] 1515
+[inter][es] -> [interes] 1516
+[fri][day] -> [friday] 1517
+[f][ree ] -> [free ] 1518
+[that ][i ] -> [that i ] 1519
+[n][ing ] -> [ning ] 1520
+[school ][today] -> [school today] 1521
+[n][m] -> [nm] 1522
+[b][ab] -> [bab] 1523
+[8][ ] -> [8 ] 1524
+[vis][it ] -> [visit ] 1525
+[chang][e ] -> [change ] 1526
+[st][and ] -> [stand ] 1527
+[give ][me ] -> [give me ] 1528
+[does ][it ] -> [does it ] 1529
+[li][ve ] -> [live ] 1530
+[,0][00 ] -> [,000 ] 1531
+[0][0] -> [00] 1532
+[ch][an] -> [chan] 1533
+[s. i ][don't ] -> [s. i don't ] 1534
+[car][. ] -> [car. ] 1535
+[ne][i] -> [nei] 1536
+[then ][why ] -> [then why ] 1537
+[and ][then ] -> [and then ] 1538
+[must ][be ] -> [must be ] 1539
+[re][e. ] -> [ree. ] 1540
+[year][ ] -> [year ] 1541
+[they ][are ] -> [they are ] 1542
+[pi][zz] -> [pizz] 1543
+[er][? ] -> [er? ] 1544
+[che][ese ] -> [cheese ] 1545
+[we ][need to ] -> [we need to ] 1546
+[en][ough ] -> [enough ] 1547
+[go][es ] -> [goes ] 1548
+[the b][o] -> [the bo] 1549
+[hi][m. ] -> [him. ] 1550
+[o][ther] -> [other] 1551
+[fin][i] -> [fini] 1552
+[that's ][not ] -> [that's not ] 1553
+[sta][m] -> [stam] 1554
+[it][ch] -> [itch] 1555
+[sh][ow ] -> [show ] 1556
+[per][c] -> [perc] 1557
+[cost][s ] -> [costs ] 1558
+[you ][get ] -> [you get ] 1559
+[couple ][of ] -> [couple of ] 1560
+[f][lo] -> [flo] 1561
+[pr][o] -> [pro] 1562
+[s][on] -> [son] 1563
+[d][ro] -> [dro] 1564
+[fr][u] -> [fru] 1565
+[bu][tt] -> [butt] 1566
+[fir][st] -> [first] 1567
+[p][an] -> [pan] 1568
+[a][ll] -> [all] 1569
+[y ][is ] -> [y is ] 1570
+[i'll ][get ] -> [i'll get ] 1571
+[stre][et] -> [street] 1572
+[di][g] -> [dig] 1573
+[dig][it] -> [digit] 1574
+[restauran][t. ] -> [restaurant. ] 1575
+[wi][pe ] -> [wipe ] 1576
+[all ][my ] -> [all my ] 1577
+[ar][ti] -> [arti] 1578
+[you ][can't ] -> [you can't ] 1579
+[ti][ll ] -> [till ] 1580
+[che][ck ] -> [check ] 1581
+[k][ill] -> [kill] 1582
+[he ][didn't ] -> [he didn't ] 1583
+[d][ang] -> [dang] 1584
+[dang][er] -> [danger] 1585
+[j][a] -> [ja] 1586
+[h][and] -> [hand] 1587
+[ne][igh] -> [neigh] 1588
+[neigh][bor] -> [neighbor] 1589
+[se][ball ] -> [seball ] 1590
+[wor][ld. ] -> [world. ] 1591
+[deli][ci] -> [delici] 1592
+[we ][get ] -> [we get ] 1593
+[pe][an] -> [pean] 1594
+[g][un] -> [gun] 1595
+[school][. ] -> [school. ] 1596
+[lat][el] -> [latel] 1597
+[a][tt] -> [att] 1598
+[re][c] -> [rec] 1599
+[cla][ss] -> [class] 1600
+[that ][would be ] -> [that would be ] 1601
+[it ][gets ] -> [it gets ] 1602
+[co][ld ] -> [cold ] 1603
+[ex][act] -> [exact] 1604
+[that ][is ] -> [that is ] 1605
+[it ][doesn't ] -> [it doesn't ] 1606
+[h][ ] -> [h ] 1607
+[em][s ] -> [ems ] 1608
+[ou][t? ] -> [out? ] 1609
+[it ][is ] -> [it is ] 1610
+[. i ][really ] -> [. i really ] 1611
+[ca][li] -> [cali] 1612
+[cali][for] -> [califor] 1613
+[califor][ni] -> [californi] 1614
+[fun][. ] -> [fun. ] 1615
+[do you ][think ] -> [do you think ] 1616
+[ab][le ] -> [able ] 1617
+[c][er] -> [cer] 1618
+[. i ][was ] -> [. i was ] 1619
+[were ][you ] -> [were you ] 1620
+[tomorr][ow. ] -> [tomorrow. ] 1621
+[see a ][movie ] -> [see a movie ] 1622
+[some][thing. ] -> [something. ] 1623
+[thin][king ] -> [thinking ] 1624
+[go][? ] -> [go? ] 1625
+[whi][ch ] -> [which ] 1626
+[ei][ght ] -> [eight ] 1627
+[b][eauti] -> [beauti] 1628
+[lik][e? ] -> [like? ] 1629
+[th][ing to ] -> [thing to ] 1630
+[ex][cit] -> [excit] 1631
+[have you ][heard ] -> [have you heard ] 1632
+[s ][on ] -> [s on ] 1633
+[a][te ] -> [ate ] 1634
+[have ][no ] -> [have no ] 1635
+[happ][y ] -> [happy ] 1636
+[the][y? ] -> [they? ] 1637
+[s][l] -> [sl] 1638
+[c][ut] -> [cut] 1639
+[and ][pain] -> [and pain] 1640
+[dra][w ] -> [draw ] 1641
+[high][ ] -> [high ] 1642
+[wish ][i ] -> [wish i ] 1643
+[k][in] -> [kin] 1644
+[whil][e. ] -> [while. ] 1645
+[when ][i ] -> [when i ] 1646
+[ca][me ] -> [came ] 1647
+[la][ugh] -> [laugh] 1648
+[you're ][not ] -> [you're not ] 1649
+[d][? i ] -> [d? i ] 1650
+[like ][a ] -> [like a ] 1651
+[nigh][t. ] -> [night. ] 1652
+[with ][a ] -> [with a ] 1653
+[with ][my ] -> [with my ] 1654
+[you ][would ] -> [you would ] 1655
+[no, ][i ] -> [no, i ] 1656
+[engli][sh ] -> [english ] 1657
+[, ][i'll ] -> [, i'll ] 1658
+[bl][e. ] -> [ble. ] 1659
+[mu][ch] -> [much] 1660
+[p][ounds ] -> [pounds ] 1661
+[? ][of course ] -> [? of course ] 1662
+[will ][you ] -> [will you ] 1663
+[i'm ][glad ] -> [i'm glad ] 1664
+[cra][z] -> [craz] 1665
+[s][ing ] -> [sing ] 1666
+[? ][oh, ] -> [? oh, ] 1667
+[you ][to ] -> [you to ] 1668
+[hav][ing ] -> [having ] 1669
+[ph][one ] -> [phone ] 1670
+[up][. ] -> [up. ] 1671
+[bi][g] -> [big] 1672
+[it ][has ] -> [it has ] 1673
+[wal][k ] -> [walk ] 1674
+[l][ittle ] -> [little ] 1675
+[b][ar] -> [bar] 1676
+[l][un] -> [lun] 1677
+[ba][ck] -> [back] 1678
+[mon][th] -> [month] 1679
+[di][vor] -> [divor] 1680
+[lea][ve ] -> [leave ] 1681
+[b][est ] -> [best ] 1682
+[g][e] -> [ge] 1683
+[t][able. ] -> [table. ] 1684
+[ca][t ] -> [cat ] 1685
+[h][it ] -> [hit ] 1686
+[th][ir] -> [thir] 1687
+[that ][will ] -> [that will ] 1688
+[if ][we ] -> [if we ] 1689
+[fi][sh ] -> [fish ] 1690
+[, ][the ] -> [, the ] 1691
+[er ][to ] -> [er to ] 1692
+[e. ][did you ] -> [e. did you ] 1693
+[mean][s ] -> [means ] 1694
+[h][e'll ] -> [he'll ] 1695
+[ed ][him ] -> [ed him ] 1696
+[you ][shouldn't ] -> [you shouldn't ] 1697
+[hom][e] -> [home] 1698
+[cu][t ] -> [cut ] 1699
+[gr][ow ] -> [grow ] 1700
+[no][. ] -> [no. ] 1701
+[pic][k ] -> [pick ] 1702
+[a ][pu] -> [a pu] 1703
+[s][on. ] -> [son. ] 1704
+[s][e. i ] -> [se. i ] 1705
+[. ][yes, ] -> [. yes, ] 1706
+[p][s ] -> [ps ] 1707
+[sh][ir] -> [shir] 1708
+[lo][se ] -> [lose ] 1709
+[in][k ] -> [ink ] 1710
+[look][ed ] -> [looked ] 1711
+[wa][sh] -> [wash] 1712
+[sh][e] -> [she] 1713
+[the][m. ] -> [them. ] 1714
+[f][o] -> [fo] 1715
+[ra][di] -> [radi] 1716
+[a][p] -> [ap] 1717
+[s][mar] -> [smar] 1718
+[1][2] -> [12] 1719
+[dri][v] -> [driv] 1720
+[wa][ke ] -> [wake ] 1721
+[had ][to ] -> [had to ] 1722
+[won][der ] -> [wonder ] 1723
+[fr][on] -> [fron] 1724
+[for][get ] -> [forget ] 1725
+[re][me] -> [reme] 1726
+[reme][mb] -> [rememb] 1727
+[hi][m] -> [him] 1728
+[e ][and ] -> [e and ] 1729
+[por][t] -> [port] 1730
+[no][t. ] -> [not. ] 1731
+[c][e? ] -> [ce? ] 1732
+[p][ow] -> [pow] 1733
+[d][ru] -> [dru] 1734
+[pock][et] -> [pocket] 1735
+[fi][x ] -> [fix ] 1736
+[coll][eg] -> [colleg] 1737
+[li][gh] -> [ligh] 1738
+[stud][ents ] -> [students ] 1739
+[ho][spit] -> [hospit] 1740
+[tick][et ] -> [ticket ] 1741
+[c][ro] -> [cro] 1742
+[wh][ite ] -> [white ] 1743
+[are ][we ] -> [are we ] 1744
+[about ][a ] -> [about a ] 1745
+[ham][burg] -> [hamburg] 1746
+[b][ ] -> [b ] 1747
+[. w][e'll ] -> [. we'll ] 1748
+[off][ic] -> [offic] 1749
+[pla][y ] -> [play ] 1750
+[roo][m ] -> [room ] 1751
+[ta][x] -> [tax] 1752
+[f][ing] -> [fing] 1753
+[eat][ing ] -> [eating ] 1754
+[t ][and ] -> [t and ] 1755
+[do][or] -> [door] 1756
+[s][li] -> [sli] 1757
+[an][an] -> [anan] 1758
+[your][self] -> [yourself] 1759
+[than][ks ] -> [thanks ] 1760
+[proble][m. ] -> [problem. ] 1761
+[. what ][about ] -> [. what about ] 1762
+[right ][now] -> [right now] 1763
+[mu][ch. ] -> [much. ] 1764
+[w][ell] -> [well] 1765
+[thank][s. ] -> [thanks. ] 1766
+[you][? i'm ] -> [you? i'm ] 1767
+[bett][er. ] -> [better. ] 1768
+[it ][so ] -> [it so ] 1769
+[m][id] -> [mid] 1770
+[mid][dle ] -> [middle ] 1771
+[know][, ] -> [know, ] 1772
+[can't ][wait ] -> [can't wait ] 1773
+[lat][er. ] -> [later. ] 1774
+[se][e] -> [see] 1775
+[that ][it's ] -> [that it's ] 1776
+[if ][it ] -> [if it ] 1777
+[so][on] -> [soon] 1778
+[in][t] -> [int] 1779
+[cle][ar] -> [clear] 1780
+[a][ir] -> [air] 1781
+[fr][es] -> [fres] 1782
+[ni][ght ] -> [night ] 1783
+[see ][the ] -> [see the ] 1784
+[se][ems ] -> [seems ] 1785
+[so ][much ] -> [so much ] 1786
+[do ][i] -> [do i] 1787
+[want to ][go to ] -> [want to go to ] 1788
+[that ][sounds like ] -> [that sounds like ] 1789
+[so][. ] -> [so. ] 1790
+[the b][ea] -> [the bea] 1791
+[you ][know ] -> [you know ] 1792
+[ho][t] -> [hot] 1793
+[, and ][then ] -> [, and then ] 1794
+[co][l] -> [col] 1795
+[take ][a ] -> [take a ] 1796
+[ba][d] -> [bad] 1797
+[tru][e. ] -> [true. ] 1798
+[li][fe ] -> [life ] 1799
+[, ][it's ] -> [, it's ] 1800
+[pos][si] -> [possi] 1801
+[know][. ] -> [know. ] 1802
+[sp][ea] -> [spea] 1803
+[tr][y] -> [try] 1804
+[try][ing to ] -> [trying to ] 1805
+[was ][the ] -> [was the ] 1806
+[for ][your ] -> [for your ] 1807
+[want to ][do ] -> [want to do ] 1808
+[with ][you. ] -> [with you. ] 1809
+[. what ][did you ] -> [. what did you ] 1810
+[movi][e. ] -> [movie. ] 1811
+[h][er. ] -> [her. ] 1812
+[have you ][seen ] -> [have you seen ] 1813
+[the ][new ] -> [the new ] 1814
+[gir][l ] -> [girl ] 1815
+[. what ][does ] -> [. what does ] 1816
+[li][ght ] -> [light ] 1817
+[that ][she ] -> [that she ] 1818
+[e][, but ] -> [e, but ] 1819
+[feel][ing ] -> [feeling ] 1820
+[ear][li] -> [earli] 1821
+[because ][i ] -> [because i ] 1822
+[t][u] -> [tu] 1823
+[? ][yes. ] -> [? yes. ] 1824
+[thin][k] -> [think] 1825
+[ed ][me ] -> [ed me ] 1826
+[the ][other ] -> [the other ] 1827
+[m][y] -> [my] 1828
+[a ][pa] -> [a pa] 1829
+[like ][that ] -> [like that ] 1830
+[ck][s. ] -> [cks. ] 1831
+[this ][is a ] -> [this is a ] 1832
+[to][day ] -> [today ] 1833
+[me][, ] -> [me, ] 1834
+[draw ][and pain] -> [draw and pain] 1835
+[cla][s] -> [clas] 1836
+[lo][ved ] -> [loved ] 1837
+[like ][that. ] -> [like that. ] 1838
+[ds ][of ] -> [ds of ] 1839
+[my fa][vorite ] -> [my favorite ] 1840
+[te][d. ] -> [ted. ] 1841
+[thr][ough ] -> [through ] 1842
+[the ][whole ] -> [the whole ] 1843
+[that's ][a good ] -> [that's a good ] 1844
+[listen ][to ] -> [listen to ] 1845
+[e. ][that ] -> [e. that ] 1846
+[i'll ][make ] -> [i'll make ] 1847
+[ga][me] -> [game] 1848
+[tea][m ] -> [team ] 1849
+[v][ic] -> [vic] 1850
+[as][k ] -> [ask ] 1851
+[. ][so, ] -> [. so, ] 1852
+[i'm ][sorr] -> [i'm sorr] 1853
+[m][en] -> [men] 1854
+[ent][s. ] -> [ents. ] 1855
+[e][d? ] -> [ed? ] 1856
+[w][ent ] -> [went ] 1857
+[oh][ ] -> [oh ] 1858
+[thought ][you ] -> [thought you ] 1859
+[, so ][i ] -> [, so i ] 1860
+[qu][es] -> [ques] 1861
+[ques][tion] -> [question] 1862
+[vis][it] -> [visit] 1863
+[h][e] -> [he] 1864
+[wait][ing ] -> [waiting ] 1865
+[star][ts ] -> [starts ] 1866
+[in][v] -> [inv] 1867
+[gi][ves ] -> [gives ] 1868
+[y. ][i'm ] -> [y. i'm ] 1869
+[i'll ][be ] -> [i'll be ] 1870
+[can ][you ] -> [can you ] 1871
+[t. i ][don't ] -> [t. i don't ] 1872
+[dinn][er ] -> [dinner ] 1873
+[next ][time. ] -> [next time. ] 1874
+[ho][ld ] -> [hold ] 1875
+[y][ed ] -> [yed ] 1876
+[po][l] -> [pol] 1877
+[okay. ][i'll ] -> [okay. i'll ] 1878
+[ru][sh] -> [rush] 1879
+[. where ][do you ] -> [. where do you ] 1880
+[fun][ ] -> [fun ] 1881
+[should ][be ] -> [should be ] 1882
+[pa][sa] -> [pasa] 1883
+[pasa][den] -> [pasaden] 1884
+[? ][it's ] -> [? it's ] 1885
+[a ][big ] -> [a big ] 1886
+[mi][ll] -> [mill] 1887
+[mill][i] -> [milli] 1888
+[ic][ ] -> [ic ] 1889
+[ri][ch ] -> [rich ] 1890
+[gu][y] -> [guy] 1891
+[can ][i ] -> [can i ] 1892
+[mone][y? ] -> [money? ] 1893
+[doll][ar ] -> [dollar ] 1894
+[friend][s. ] -> [friends. ] 1895
+[did ][she ] -> [did she ] 1896
+[dea][l] -> [deal] 1897
+[to][ge] -> [toge] 1898
+[ma][tt] -> [matt] 1899
+[. what's ][the ma] -> [. what's the ma] 1900
+[tter ][with ] -> [tter with ] 1901
+[b][it ] -> [bit ] 1902
+[com][pu] -> [compu] 1903
+[but ][i ] -> [but i ] 1904
+[every][body ] -> [everybody ] 1905
+[p][ay] -> [pay] 1906
+[told ][her ] -> [told her ] 1907
+[an][im] -> [anim] 1908
+[talk ][about ] -> [talk about ] 1909
+[the bathroo][m. ] -> [the bathroom. ] 1910
+[c][oun] -> [coun] 1911
+[when ][you ] -> [when you ] 1912
+[itt][ing ] -> [itting ] 1913
+[the ][r] -> [the r] 1914
+[m][er] -> [mer] 1915
+[hun][gr] -> [hungr] 1916
+[c][rea] -> [crea] 1917
+[about ][it? ] -> [about it? ] 1918
+[foo][d. ] -> [food. ] 1919
+[par][ents ] -> [parents ] 1920
+[know][s ] -> [knows ] 1921
+[h][us] -> [hus] 1922
+[hus][b] -> [husb] 1923
+[a ][couple of ] -> [a couple of ] 1924
+[every ][day] -> [every day] 1925
+[part][m] -> [partm] 1926
+[ ][c] -> [ c] 1927
+[every][thing ] -> [everything ] 1928
+[d][g] -> [dg] 1929
+[mar][k] -> [mark] 1930
+[ta][st] -> [tast] 1931
+[and][wi] -> [andwi] 1932
+[po][ta] -> [pota] 1933
+[bla][ck ] -> [black ] 1934
+[c][re] -> [cre] 1935
+[eas][y to ] -> [easy to ] 1936
+[. you ][should ] -> [. you should ] 1937
+[minut][es ] -> [minutes ] 1938
+[bl][ow ] -> [blow ] 1939
+[fe][w ] -> [few ] 1940
+[p][en ] -> [pen ] 1941
+[fu][ll ] -> [full ] 1942
+[sho][pping ] -> [shopping ] 1943
+[ch][in] -> [chin] 1944
+[digit][al ] -> [digital ] 1945
+[tv ][news ] -> [tv news ] 1946
+[3][0 ] -> [30 ] 1947
+[ti][s] -> [tis] 1948
+[tis][su] -> [tissu] 1949
+[find ][a ] -> [find a ] 1950
+[es. ][but ] -> [es. but ] 1951
+[af][for] -> [affor] 1952
+[affor][d ] -> [afford ] 1953
+[dru][g] -> [drug] 1954
+[tw][o] -> [two] 1955
+[with][out ] -> [without ] 1956
+[o][c] -> [oc] 1957
+[s][pa] -> [spa] 1958
+[p][et] -> [pet] 1959
+[i'll ][bet ] -> [i'll bet ] 1960
+[us][ed ] -> [used ] 1961
+[5][0 ] -> [50 ] 1962
+[par][king ] -> [parking ] 1963
+[ha][lf ] -> [half ] 1964
+[h][ug] -> [hug] 1965
+[th][i] -> [thi] 1966
+[they]['ll ] -> [they'll ] 1967
+[br][ing ] -> [bring ] 1968
+[ou][r] -> [our] 1969
+[proble][m ] -> [problem ] 1970
+[ti][r] -> [tir] 1971
+[s? ][they ] -> [s? they ] 1972
+[cro][ss] -> [cross] 1973
+[ac][cid] -> [accid] 1974
+[is ][the ] -> [is the ] 1975
+[ck][s ] -> [cks ] 1976
+[a][way ] -> [away ] 1977
+[. we ][can ] -> [. we can ] 1978
+[whi][le ] -> [while ] 1979
+[he ][has ] -> [he has ] 1980
+[ba][seball ] -> [baseball ] 1981
+[, too][. i ] -> [, too. i ] 1982
+[of ][them ] -> [of them ] 1983
+[se][ll] -> [sell] 1984
+[s][ing] -> [sing] 1985
+[na][il] -> [nail] 1986
+[cigarett][e ] -> [cigarette ] 1987
+[delici][ou] -> [deliciou] 1988
+[a ][f] -> [a f] 1989
+[al][s. ] -> [als. ] 1990
+[1][5] -> [15] 1991
+[we ][have to ] -> [we have to ] 1992
+[perc][ent ] -> [percent ] 1993
+[la][id ] -> [laid ] 1994
+[c][ow] -> [cow] 1995
+[s][. well, ] -> [s. well, ] 1996
+[presid][ent. ] -> [president. ] 1997
+[act][ually ] -> [actually ] 1998
+[en][d] -> [end] 1999
+[ab][sol] -> [absol] 2000
+[absol][ut] -> [absolut] 2001
+[absolut][ely ] -> [absolutely ] 2002
+[you][? i ] -> [you? i ] 2003
+[g][re] -> [gre] 2004
+[it ][would be ] -> [it would be ] 2005
+[b][le ] -> [ble ] 2006
+[ra][ther ] -> [rather ] 2007
+[very ][nice ] -> [very nice ] 2008
+[l][y, ] -> [ly, ] 2009
+[coo][l ] -> [cool ] 2010
+[t. ][that's ] -> [t. that's ] 2011
+[fres][h ] -> [fresh ] 2012
+[is ][it? ] -> [is it? ] 2013
+[l][y. i ] -> [ly. i ] 2014
+[? ][it ] -> [? it ] 2015
+[wi][ll. ] -> [will. ] 2016
+[after it rain][s. i ] -> [after it rains. i ] 2017
+[make ][it ] -> [make it ] 2018
+[er][. i ] -> [er. i ] 2019
+[the b][each ] -> [the beach ] 2020
+[this weeken][d. ] -> [this weekend. ] 2021
+[perfec][t ] -> [perfect ] 2022
+[ea][ther] -> [eather] 2023
+[w][eather ] -> [weather ] 2024
+[ea][si] -> [easi] 2025
+[tri][p ] -> [trip ] 2026
+[ab][le] -> [able] 2027
+[would ][never ] -> [would never ] 2028
+[d][. what's ] -> [d. what's ] 2029
+[supposed to ][be ] -> [supposed to be ] 2030
+[cer][ta] -> [certa] 2031
+[go][ing? ] -> [going? ] 2032
+[su][re] -> [sure] 2033
+[what ][did you ] -> [what did you ] 2034
+[i'll ][see you ] -> [i'll see you ] 2035
+[thinking ][about ] -> [thinking about ] 2036
+[let's ][go ] -> [let's go ] 2037
+[a][po] -> [apo] 2038
+[apo][lo] -> [apolo] 2039
+[apolo][gi] -> [apologi] 2040
+[apologi][z] -> [apologiz] 2041
+[tomorr][ow] -> [tomorrow] 2042
+[tal][king ] -> [talking ] 2043
+[c][ed ] -> [ced ] 2044
+[fu][l] -> [ful] 2045
+[at ][school ] -> [at school ] 2046
+[er][? no, ] -> [er? no, ] 2047
+[miss][ing ] -> [missing ] 2048
+[sic][k. ] -> [sick. ] 2049
+[un][der ] -> [under ] 2050
+[. w][ould ] -> [. would ] 2051
+[prom][o] -> [promo] 2052
+[ser][iou] -> [seriou] 2053
+[for ][you. ] -> [for you. ] 2054
+[is that ][righ] -> [is that righ] 2055
+[what ][you ] -> [what you ] 2056
+[what ][happen] -> [what happen] 2057
+[? ][you ] -> [? you ] 2058
+[out][f] -> [outf] 2059
+[a ][ma] -> [a ma] 2060
+[are ][they? ] -> [are they? ] 2061
+[? i ][enjoy ] -> [? i enjoy ] 2062
+[ar][t ] -> [art ] 2063
+[yeah, ][i ] -> [yeah, i ] 2064
+[didn't ][know ] -> [didn't know ] 2065
+[do ][it ] -> [do it ] 2066
+[how ][long ] -> [how long ] 2067
+[go][t to ] -> [got to ] 2068
+[t. ][you ] -> [t. you ] 2069
+[your fa][vorite ] -> [your favorite ] 2070
+[d][v] -> [dv] 2071
+[see ][it ] -> [see it ] 2072
+[say ][that ] -> [say that ] 2073
+[lin][e ] -> [line ] 2074
+[o][ver] -> [over] 2075
+[ty][pe ] -> [type ] 2076
+[list][en] -> [listen] 2077
+[in][st] -> [inst] 2078
+[that ][they ] -> [that they ] 2079
+[. why ][do you ] -> [. why do you ] 2080
+[sk][et] -> [sket] 2081
+[sket][ball ] -> [sketball ] 2082
+[ga][me ] -> [game ] 2083
+[fri][day ] -> [friday ] 2084
+[frien][d. ] -> [friend. ] 2085
+[want to ][go] -> [want to go] 2086
+[th][en] -> [then] 2087
+[have ][any ] -> [have any ] 2088
+[do][? i'm ] -> [do? i'm ] 2089
+[e][y] -> [ey] 2090
+[come ][to ] -> [come to ] 2091
+[r][et] -> [ret] 2092
+[any][one ] -> [anyone ] 2093
+[6][ ] -> [6 ] 2094
+[new][s. ] -> [news. ] 2095
+[no][body ] -> [nobody ] 2096
+[did][n't. ] -> [didn't. ] 2097
+[it ][wa] -> [it wa] 2098
+[wor][king ] -> [working ] 2099
+[al][so ] -> [also ] 2100
+[to][. ] -> [to. ] 2101
+[my ][invit] -> [my invit] 2102
+[star][t? ] -> [start? ] 2103
+[o]['] -> [o'] 2104
+[o'][clo] -> [o'clo] 2105
+[gi][ven ] -> [given ] 2106
+[t][? i ] -> [t? i ] 2107
+[.][m. ] -> [.m. ] 2108
+[ough][. ] -> [ough. ] 2109
+[part][y. ] -> [party. ] 2110
+[e. ][what's ] -> [e. what's ] 2111
+[ti][me? ] -> [time? ] 2112
+[es][s. ] -> [ess. ] 2113
+[mi][ly ] -> [mily ] 2114
+[do][. ] -> [do. ] 2115
+[no][se] -> [nose] 2116
+[s][, and ] -> [s, and ] 2117
+[be][ing ] -> [being ] 2118
+[take ][care ] -> [take care ] 2119
+[wor][ry ] -> [worry ] 2120
+[out ][to ] -> [out to ] 2121
+[li][v] -> [liv] 2122
+[a][. ] -> [a. ] 2123
+[do you ][hav] -> [do you hav] 2124
+[wa][sh ] -> [wash ] 2125
+[guy][s ] -> [guys ] 2126
+[maybe ][we should ] -> [maybe we should ] 2127
+[do][g ] -> [dog ] 2128
+[lik][es ] -> [likes ] 2129
+[er][e's ] -> [ere's ] 2130
+[to ][have ] -> [to have ] 2131
+[frien][ds ] -> [friends ] 2132
+[let's ][go to ] -> [let's go to ] 2133
+[did ][the ] -> [did the ] 2134
+[oun][d. ] -> [ound. ] 2135
+[divor][ce] -> [divorce] 2136
+[any][mor] -> [anymor] 2137
+[fe][ll ] -> [fell ] 2138
+[close ][to the ] -> [close to the ] 2139
+[we ][need ] -> [we need ] 2140
+[res][s ] -> [ress ] 2141
+[la][p] -> [lap] 2142
+[lap][to] -> [lapto] 2143
+[? ][well, ] -> [? well, ] 2144
+[lo][ves ] -> [loves ] 2145
+[i ][have ] -> [i have ] 2146
+[pe][pp] -> [pepp] 2147
+[of ][a ] -> [of a ] 2148
+[about ][$] -> [about $] 2149
+[for][ever. ] -> [forever. ] 2150
+[on ][and ] -> [on and ] 2151
+[fi][sh] -> [fish] 2152
+[b][ir] -> [bir] 2153
+[s][pen] -> [spen] 2154
+[el][se ] -> [else ] 2155
+[funn][y] -> [funny] 2156
+[yes, ][it's ] -> [yes, it's ] 2157
+[fini][sh] -> [finish] 2158
+[li][fe. ] -> [life. ] 2159
+[m][ou] -> [mou] 2160
+[es][? i ] -> [es? i ] 2161
+[en][ve] -> [enve] 2162
+[enve][lo] -> [envelo] 2163
+[k][itch] -> [kitch] 2164
+[for ][you] -> [for you] 2165
+[sle][ep] -> [sleep] 2166
+[sh][ow. ] -> [show. ] 2167
+[re][cor] -> [recor] 2168
+[ch][ur] -> [chur] 2169
+[yea][h] -> [yeah] 2170
+[home][work. ] -> [homework. ] 2171
+[ar][e. ] -> [are. ] 2172
+[t][! ] -> [t! ] 2173
+[fa][mil] -> [famil] 2174
+[be][ar] -> [bear] 2175
+[the ][pa] -> [the pa] 2176
+[nex][t to ] -> [next to ] 2177
+[ne][e] -> [nee] 2178
+[a pu][pp] -> [a pupp] 2179
+[all ][i ] -> [all i ] 2180
+[r][y. ] -> [ry. ] 2181
+[a][partm] -> [apartm] 2182
+[us][ed to ] -> [used to ] 2183
+[nei][ther ] -> [neither ] 2184
+[com][pla] -> [compla] 2185
+[. ][a ] -> [. a ] 2186
+[do ][is ] -> [do is ] 2187
+[lat][e. ] -> [late. ] 2188
+[t][ow] -> [tow] 2189
+[about ][the ] -> [about the ] 2190
+[es ][and ] -> [es and ] 2191
+[all ][you ] -> [all you ] 2192
+[i][p] -> [ip] 2193
+[y. ][you ] -> [y. you ] 2194
+[cra][sh] -> [crash] 2195
+[mo][ve ] -> [move ] 2196
+[d][res] -> [dres] 2197
+[1][1] -> [11] 2198
+[d][e. ] -> [de. ] 2199
+[na][p] -> [nap] 2200
+[an ][hour] -> [an hour] 2201
+[k][es] -> [kes] 2202
+[no][se. ] -> [nose. ] 2203
+[plan][e ] -> [plane ] 2204
+[l][ou] -> [lou] 2205
+[only ][one ] -> [only one ] 2206
+[m][en ] -> [men ] 2207
+[boo][k] -> [book] 2208
+[to][es ] -> [toes ] 2209
+[for][ever] -> [forever] 2210
+[it][i] -> [iti] 2211
+[you'd ][better ] -> [you'd better ] 2212
+[fron][t ] -> [front ] 2213
+[. what ][are you ] -> [. what are you ] 2214
+[chan][ne] -> [channe] 2215
+[channe][l] -> [channel] 2216
+[wal][k] -> [walk] 2217
+[down][. ] -> [down. ] 2218
+[the po][lice ] -> [the police ] 2219
+[d][ing a ] -> [ding a ] 2220
+[can ][we ] -> [can we ] 2221
+[da][d ] -> [dad ] 2222
+[wor][ri] -> [worri] 2223
+[pen][ci] -> [penci] 2224
+[pan][ts ] -> [pants ] 2225
+[car][ry ] -> [carry ] 2226
+[t][en ] -> [ten ] 2227
+[s][ong] -> [song] 2228
+[. w][i] -> [. wi] 2229
+[com][es ] -> [comes ] 2230
+[hi][re ] -> [hire ] 2231
+[m][et] -> [met] 2232
+[wi][p] -> [wip] 2233
+[all ][over ] -> [all over ] 2234
+[all over ][the ] -> [all over the ] 2235
+[fla][g] -> [flag] 2236
+[w][ar ] -> [war ] 2237
+[wal][k. ] -> [walk. ] 2238
+[pri][ce. ] -> [price. ] 2239
+[che][ck] -> [check] 2240
+[ba][ll] -> [ball] 2241
+[like ][this ] -> [like this ] 2242
+[v][er. ] -> [ver. ] 2243
+[d][u] -> [du] 2244
+[d][ing. ] -> [ding. ] 2245
+[hug][e ] -> [huge ] 2246
+[s. ][and ] -> [s. and ] 2247
+[p][ra] -> [pra] 2248
+[fi][re ] -> [fire ] 2249
+[numb][er ] -> [number ] 2250
+[are ][they ] -> [are they ] 2251
+[if ][they ] -> [if they ] 2252
+[d][! ] -> [d! ] 2253
+[they ][were ] -> [they were ] 2254
+[hoo][d. ] -> [hood. ] 2255
+[us][es ] -> [uses ] 2256
+[there ][was ] -> [there was ] 2257
+[w][in ] -> [win ] 2258
+[mone][y for ] -> [money for ] 2259
+[out ][of the ] -> [out of the ] 2260
+[on][lin] -> [onlin] 2261
+[s][. we ] -> [s. we ] 2262
+[f][re] -> [fre] 2263
+[j][u] -> [ju] 2264
+[we][igh] -> [weigh] 2265
+[looking ][at ] -> [looking at ] 2266
+[t][on] -> [ton] 2267
+[bl][ind ] -> [blind ] 2268
+[in the ][world. ] -> [in the world. ] 2269
+[s][en] -> [sen] 2270
+[year][s. ] -> [years. ] 2271
+[bu][tter] -> [butter] 2272
+[f][li] -> [fli] 2273
+[sta][in] -> [stain] 2274
+[ba][ll. ] -> [ball. ] 2275
+[go][lf ] -> [golf ] 2276
+[chea][per ] -> [cheaper ] 2277
+[po][li] -> [poli] 2278
+[cri][me ] -> [crime ] 2279
+[orang][e ] -> [orange ] 2280
+[bu][il] -> [buil] 2281
+[wa][i] -> [wai] 2282
+[i][se ] -> [ise ] 2283
+[got ][laid ] -> [got laid ] 2284
+[b][le] -> [ble] 2285
+['][d ] -> ['d ] 2286
+[vo][ted ] -> [voted ] 2287
+[voted ][for ] -> [voted for ] 2288
+[vote ][for ] -> [vote for ] 2289
+[ele][ction] -> [election] 2290
+[vo][t] -> [vot] 2291
+[b][rush] -> [brush] 2292
+[ing][? i'm ] -> [ing? i'm ] 2293
+[thanks ][for ] -> [thanks for ] 2294
+[no ][problem. ] -> [no problem. ] 2295
+[p][c] -> [pc] 2296
+[us][. ] -> [us. ] 2297
+[er][, ] -> [er, ] 2298
+[have you ][been ] -> [have you been ] 2299
+[. wh][i] -> [. whi] 2300
+[. whi][ch ] -> [. which ] 2301
+[y][ing ] -> [ying ] 2302
+[there are ][a lot of ] -> [there are a lot of ] 2303
+[every][thing] -> [everything] 2304
+[it ][may ] -> [it may ] 2305
+[su][mm] -> [summ] 2306
+[in][et] -> [inet] 2307
+[h][or] -> [hor] 2308
+[win][ter ] -> [winter ] 2309
+[i'd ][rather ] -> [i'd rather ] 2310
+[righ][t. i ] -> [right. i ] 2311
+[think ][it's ] -> [think it's ] 2312
+[exact][ly ] -> [exactly ] 2313
+[e. i ][hope ] -> [e. i hope ] 2314
+[po][int] -> [point] 2315
+[righ][t, ] -> [right, ] 2316
+[d][own ] -> [down ] 2317
+[looks ][like ] -> [looks like ] 2318
+[so][on. ] -> [soon. ] 2319
+[it ][does] -> [it does] 2320
+[smell][s ] -> [smells ] 2321
+[yes, but ][i ] -> [yes, but i ] 2322
+[love ][the ] -> [love the ] 2323
+[a][ir ] -> [air ] 2324
+[star][s ] -> [stars ] 2325
+[perfe][ct] -> [perfect] 2326
+[the s][k] -> [the sk] 2327
+[so ][do i] -> [so do i] 2328
+[under][stan] -> [understan] 2329
+[californi][a ] -> [california ] 2330
+[pre][di] -> [predi] 2331
+[predi][ct] -> [predict] 2332
+[hea][d ] -> [head ] 2333
+[that ][would ] -> [that would ] 2334
+[a lo][t ] -> [a lot ] 2335
+[it ][will be ] -> [it will be ] 2336
+[the bea][ch] -> [the beach] 2337
+[somet][i] -> [someti] 2338
+[e. ][it ] -> [e. it ] 2339
+[st][ay] -> [stay] 2340
+[h][ell] -> [hell] 2341
+[call ][you ] -> [call you ] 2342
+[so ][what ] -> [so what ] 2343
+[ab][out? ] -> [about? ] 2344
+[han][g ] -> [hang ] 2345
+[an][sw] -> [answ] 2346
+[talk to ][you ] -> [talk to you ] 2347
+[tim][es ] -> [times ] 2348
+[something][? ] -> [something? ] 2349
+[in ][school] -> [in school] 2350
+[about ][five ] -> [about five ] 2351
+[fe][et ] -> [feet ] 2352
+[she ][look ] -> [she look ] 2353
+[? ][she ] -> [? she ] 2354
+[own ][e] -> [own e] 2355
+[sh][or] -> [shor] 2356
+[beauti][ful ] -> [beautiful ] 2357
+[tell][ing ] -> [telling ] 2358
+[m][et ] -> [met ] 2359
+[. what ][was ] -> [. what was ] 2360
+[stom][a] -> [stoma] 2361
+[ch ][was ] -> [ch was ] 2362
+[do you ][want ] -> [do you want ] 2363
+[medi][c] -> [medic] 2364
+[medic][in] -> [medicin] 2365
+[sic][k] -> [sick] 2366
+[did ][it ] -> [did it ] 2367
+[. would ][you ] -> [. would you ] 2368
+[t][. why ] -> [t. why ] 2369
+[didn't ][you ] -> [didn't you ] 2370
+[did you ][hear ] -> [did you hear ] 2371
+[my ][job] -> [my job] 2372
+[new][s? ] -> [news? ] 2373
+[earli][er ] -> [earlier ] 2374
+[. i ][am ] -> [. i am ] 2375
+[happ][y. ] -> [happy. ] 2376
+[grea][t. ] -> [great. ] 2377
+[really ][nice ] -> [really nice ] 2378
+[thank ][you. i ] -> [thank you. i ] 2379
+[just ][got ] -> [just got ] 2380
+[s. ][it's ] -> [s. it's ] 2381
+[sho][es ] -> [shoes ] 2382
+[ch][u] -> [chu] 2383
+[l][or] -> [lor] 2384
+[a][go. ] -> [ago. ] 2385
+[fr][om] -> [from] 2386
+[think ][you ] -> [think you ] 2387
+[go ][and ] -> [go and ] 2388
+[ed ][it ] -> [ed it ] 2389
+[ti][me] -> [time] 2390
+[dra][w] -> [draw] 2391
+[how to ][draw and pain] -> [how to draw and pain] 2392
+[see ][that ] -> [see that ] 2393
+[tal][en] -> [talen] 2394
+[kin][ds of ] -> [kinds of ] 2395
+[s][or] -> [sor] 2396
+[are ][there ] -> [are there ] 2397
+[. well, ][it's ] -> [. well, it's ] 2398
+[is a ][great ] -> [is a great ] 2399
+[movie ][is ] -> [movie is ] 2400
+[it ][came ] -> [it came ] 2401
+[e][yes. ] -> [eyes. ] 2402
+[. i ][have ] -> [. i have ] 2403
+[it ][on ] -> [it on ] 2404
+[? i ][have to ] -> [? i have to ] 2405
+[l][ar] -> [lar] 2406
+[movi][e. i ] -> [movie. i ] 2407
+[, ][ei] -> [, ei] 2408
+[would you ][like to ] -> [would you like to ] 2409
+[which ][one ] -> [which one ] 2410
+[funn][y. ] -> [funny. ] 2411
+[c][l] -> [cl] 2412
+[of ][music] -> [of music] 2413
+[listen][ing to ] -> [listening to ] 2414
+[inst][ru] -> [instru] 2415
+[m][ents ] -> [ments ] 2416
+[ex][c] -> [exc] 2417
+[. what ][is ] -> [. what is ] 2418
+[ty][p] -> [typ] 2419
+[g][en] -> [gen] 2420
+[on ][friday] -> [on friday] 2421
+[ed ][a ] -> [ed a ] 2422
+[oh, ][really? ] -> [oh, really? ] 2423
+[1][0] -> [10] 2424
+[9][8] -> [98] 2425
+[se][e? ] -> [see? ] 2426
+[you're ][going to ] -> [you're going to ] 2427
+[frien][d? ] -> [friend? ] 2428
+[. what ][are you going to ] -> [. what are you going to ] 2429
+[is there ][a ] -> [is there a ] 2430
+[min][d. ] -> [mind. ] 2431
+[go to ][school today] -> [go to school today] 2432
+[. w][ere ] -> [. were ] 2433
+[. were ][you ] -> [. were you ] 2434
+[as][sig] -> [assig] 2435
+[assig][nm] -> [assignm] 2436
+[to ][do ] -> [to do ] 2437
+[when ][you're ] -> [when you're ] 2438
+[g][one ] -> [gone ] 2439
+[her ][bab] -> [her bab] 2440
+[that][. i ] -> [that. i ] 2441
+[. i ][just ] -> [. i just ] 2442
+[su][b] -> [sub] 2443
+[in][stea] -> [instea] 2444
+[it. ][that's ] -> [it. that's ] 2445
+[y? ][no, ] -> [y? no, ] 2446
+[missing ][you ] -> [missing you ] 2447
+[ed ][you ] -> [ed you ] 2448
+[bus][y. ] -> [busy. ] 2449
+[visit][ed ] -> [visited ] 2450
+[. w][hat] -> [. what] 2451
+[. what][ever ] -> [. whatever ] 2452
+[a][tion ] -> [ation ] 2453
+[la][ter ] -> [later ] 2454
+[it's ][going to be ] -> [it's going to be ] 2455
+[does ][the ] -> [does the ] 2456
+[starts ][at ] -> [starts at ] 2457
+[o'clo][ck] -> [o'clock] 2458
+[. ][oh, ] -> [. oh, ] 2459
+[inv][ite ] -> [invite ] 2460
+[sa][tur] -> [satur] 2461
+[mor][n] -> [morn] 2462
+[a][w] -> [aw] 2463
+[al][read] -> [alread] 2464
+[:][00 ] -> [:00 ] 2465
+[have no ][idea] -> [have no idea] 2466
+[ing a ][party ] -> [ing a party ] 2467
+[. i ][didn't ] -> [. i didn't ] 2468
+[n]['] -> [n'] 2469
+[anything ][about ] -> [anything about ] 2470
+[this ][friday] -> [this friday] 2471
+[sorr][y] -> [sorry] 2472
+[ther][e] -> [there] 2473
+[dinn][er] -> [dinner] 2474
+[coo][l] -> [cool] 2475
+[ph][on] -> [phon] 2476
+[one ][of ] -> [one of ] 2477
+[bus][in] -> [busin] 2478
+[enjo][yed ] -> [enjoyed ] 2479
+[get ][off the ] -> [get off the ] 2480
+[es][, ] -> [es, ] 2481
+[just ][a ] -> [just a ] 2482
+[out to ][ea] -> [out to ea] 2483
+[that ][sounds ] -> [that sounds ] 2484
+[do ][that. ] -> [do that. ] 2485
+[next ][time ] -> [next time ] 2486
+[se][t ] -> [set ] 2487
+[n][or] -> [nor] 2488
+[4][0] -> [40] 2489
+[3][ ] -> [3 ] 2490
+[? ][it was ] -> [? it was ] 2491
